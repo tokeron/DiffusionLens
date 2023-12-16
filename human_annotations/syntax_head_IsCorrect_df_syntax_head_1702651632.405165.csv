@@ -1,0 +1,141 @@
+prompt,0,4,8,12,16,20,24,seed
+a white stove is next to a window,0,0,0,0,1,1,1,0
+a white stove is next to a window,0,0,0,0,1,1,1,1
+a white stove is next to a window,0,0,0,0,0,1,1,2
+a white stove is next to a window,0,0,0,1,1,1,1,3
+A rectangular shaped pizza is on a wooden board.,0,0,0,0,0,0,0,0
+A rectangular shaped pizza is on a wooden board.,0,0,0,0,1,0,1,1
+A rectangular shaped pizza is on a wooden board.,0,0,0,0,0,0,1,2
+A rectangular shaped pizza is on a wooden board.,0,0,0,0,0,0,1,3
+Apples of green and red are in white baskets.,0,0,0,0,0,0,1,0
+Apples of green and red are in white baskets.,0,0,0,0,0,0,0,1
+Apples of green and red are in white baskets.,0,0,1,0,0,0,1,2
+Apples of green and red are in white baskets.,0,0,0,0,0,0,1,3
+A large empty silver kitchen is under construction.,0,0,0,0,0,0,1,0
+A large empty silver kitchen is under construction.,0,0,0,0,0,0,1,1
+A large empty silver kitchen is under construction.,0,0,0,0,0,0,1,2
+A large empty silver kitchen is under construction.,1,0,0,0,0,0,1,3
+The young boy is on the boat navigating it.,1,1,1,1,1,1,1,0
+The young boy is on the boat navigating it.,0,1,1,1,1,1,1,1
+The young boy is on the boat navigating it.,0,1,1,1,1,1,1,2
+The young boy is on the boat navigating it.,1,1,1,1,1,1,1,3
+Three brown bananas are by a measuring glass.,0,0,0,0,0,0,1,0
+Three brown bananas are by a measuring glass.,0,0,0,0,0,0,1,1
+Three brown bananas are by a measuring glass.,0,0,0,0,0,0,1,2
+Three brown bananas are by a measuring glass.,0,0,0,0,0,0,0,3
+a clock is on a white tower outside,0,0,1,1,1,0,1,0
+a clock is on a white tower outside,0,0,1,0,0,1,1,1
+a clock is on a white tower outside,0,0,1,0,1,1,0,2
+a clock is on a white tower outside,0,0,0,0,1,1,1,3
+The dog is on the leash walking outside.,0,0,0,0,0,1,1,0
+The dog is on the leash walking outside.,0,0,1,1,1,1,1,1
+The dog is on the leash walking outside.,0,1,1,0,0,1,1,2
+The dog is on the leash walking outside.,0,0,1,1,0,0,1,3
+a large bed is in a white room,0,1,1,1,1,1,1,0
+a large bed is in a white room,1,0,1,1,1,1,1,1
+a large bed is in a white room,1,0,1,1,1,1,1,2
+a large bed is in a white room,1,0,1,1,1,1,1,3
+Several zebras are in an open grassy field.,0,0,1,1,0,1,1,0
+Several zebras are in an open grassy field.,0,0,1,1,1,1,1,1
+Several zebras are in an open grassy field.,0,0,1,1,1,1,1,2
+Several zebras are in an open grassy field.,0,0,1,1,1,1,1,3
+Two little white boxes are on a mat.,0,0,0,0,0,1,1,0
+Two little white boxes are on a mat.,0,0,0,1,0,0,1,1
+Two little white boxes are on a mat.,0,0,0,0,0,1,0,2
+Two little white boxes are on a mat.,0,0,0,0,0,0,1,3
+The zebra is in the field standing all alone.,1,0,1,1,1,1,1,0
+The zebra is in the field standing all alone.,0,0,1,1,1,1,1,1
+The zebra is in the field standing all alone.,1,0,1,1,1,1,1,2
+The zebra is in the field standing all alone.,0,0,1,1,1,1,1,3
+many different tools are on different wooden shelves,0,0,0,1,1,1,1,0
+many different tools are on different wooden shelves,0,0,1,0,1,1,1,1
+many different tools are on different wooden shelves,0,0,1,1,1,1,1,2
+many different tools are on different wooden shelves,0,0,1,0,0,1,1,3
+The cloudy sky is above the grassy land.,1,1,1,1,1,1,1,0
+The cloudy sky is above the grassy land.,1,1,1,1,1,1,1,1
+The cloudy sky is above the grassy land.,1,1,1,1,1,1,1,2
+The cloudy sky is above the grassy land.,0,1,1,1,1,0,1,3
+A few people are in the ocean splashing around.,0,0,0,0,0,1,1,0
+A few people are in the ocean splashing around.,0,0,1,0,1,1,1,1
+A few people are in the ocean splashing around.,0,0,0,0,1,1,1,2
+A few people are in the ocean splashing around.,0,0,1,0,0,1,1,3
+The suitcases are on the ramp waiting to get picked up.,0,0,0,0,0,1,1,0
+The suitcases are on the ramp waiting to get picked up.,0,0,0,0,0,0,1,1
+The suitcases are on the ramp waiting to get picked up.,0,0,0,0,0,1,1,2
+The suitcases are on the ramp waiting to get picked up.,0,0,0,0,0,1,1,3
+The pretty colored cookies are on the table.,0,0,1,1,0,1,1,0
+The pretty colored cookies are on the table.,0,0,1,0,0,1,1,1
+The pretty colored cookies are on the table.,0,0,0,1,1,1,1,2
+The pretty colored cookies are on the table.,0,0,1,1,1,1,0,3
+A man is next to a blue and yellow train.,0,0,0,0,1,1,1,0
+A man is next to a blue and yellow train.,0,0,1,0,1,1,1,1
+A man is next to a blue and yellow train.,0,0,1,0,1,1,1,2
+A man is next to a blue and yellow train.,0,0,0,0,0,1,1,3
+A double decked bus is at an intersection.,0,0,0,0,1,1,1,0
+A double decked bus is at an intersection.,0,0,1,0,0,1,1,1
+A double decked bus is at an intersection.,0,0,1,1,0,1,1,2
+A double decked bus is at an intersection.,0,0,1,1,0,1,1,3
+The people are on the beach getting ready to surf.,0,1,1,0,0,0,0,0
+The people are on the beach getting ready to surf.,0,0,0,0,0,0,1,1
+The people are on the beach getting ready to surf.,1,0,0,0,0,0,1,2
+The people are on the beach getting ready to surf.,0,1,0,0,0,0,1,3
+a plane is on the tarmac preparing to load or unload,0,0,0,1,1,1,1,0
+a plane is on the tarmac preparing to load or unload,0,0,1,1,1,1,0,1
+a plane is on the tarmac preparing to load or unload,0,0,1,1,1,1,1,2
+a plane is on the tarmac preparing to load or unload,0,0,1,1,1,1,1,3
+three pink umbrellas are in a lush garden,0,0,0,0,0,0,1,0
+three pink umbrellas are in a lush garden,0,0,0,1,1,0,0,1
+three pink umbrellas are in a lush garden,0,0,0,0,0,1,1,2
+three pink umbrellas are in a lush garden,0,0,0,1,1,0,0,3
+The cake is on the table ready to be eaten.,0,0,0,1,1,1,1,0
+The cake is on the table ready to be eaten.,1,1,1,0,1,1,1,1
+The cake is on the table ready to be eaten.,0,0,1,0,1,1,1,2
+The cake is on the table ready to be eaten.,0,1,0,1,0,1,1,3
+a bucket is next to the toilet.,0,0,0,0,0,0,0,0
+a bucket is next to the toilet.,0,0,0,0,0,0,1,1
+a bucket is next to the toilet.,0,0,0,0,0,0,0,2
+a bucket is next to the toilet.,0,0,0,0,0,0,0,3
+A yellow and black old train is on a bridge.,0,0,0,1,0,1,1,0
+A yellow and black old train is on a bridge.,0,0,0,0,0,0,0,1
+A yellow and black old train is on a bridge.,0,0,0,1,0,1,1,2
+A yellow and black old train is on a bridge.,0,0,0,1,1,1,0,3
+A sandwich is next to a yellow stuffed animal.,0,0,0,0,0,1,1,0
+A sandwich is next to a yellow stuffed animal.,0,0,0,0,0,0,1,1
+A sandwich is next to a yellow stuffed animal.,0,0,0,0,0,1,,2
+A sandwich is next to a yellow stuffed animal.,0,0,0,0,0,1,1,3
+A raw turkey is in an open oven.,0,0,1,1,1,1,1,0
+A raw turkey is in an open oven.,0,0,1,0,1,1,1,1
+A raw turkey is in an open oven.,0,0,0,0,1,1,1,2
+A raw turkey is in an open oven.,0,0,1,0,1,1,1,3
+two white polar bears are in their pen,0,0,0,0,0,0,0,0
+two white polar bears are in their pen,0,0,0,0,0,0,0,1
+two white polar bears are in their pen,0,0,0,0,0,0,0,2
+two white polar bears are in their pen,0,0,0,0,0,0,0,3
+A neatly made bed is next to a curtained window.,0,0,1,1,0,0,1,0
+A neatly made bed is next to a curtained window.,0,0,1,0,0,1,1,1
+A neatly made bed is next to a curtained window.,0,0,0,1,1,0,1,2
+A neatly made bed is next to a curtained window.,0,0,1,1,1,1,1,3
+Two zebras behind a cage standing next to each other.,0,0,0,1,1,1,1,0
+Two zebras behind a cage standing next to each other.,0,0,0,0,1,1,1,1
+Two zebras behind a cage standing next to each other.,0,0,1,0,1,1,1,2
+Two zebras behind a cage standing next to each other.,0,0,0,0,0,0,1,3
+a yellow van is in a busy town,0,0,0,0,0,0,0,0
+a yellow van is in a busy town,0,0,0,0,0,0,1,1
+a yellow van is in a busy town,0,0,0,0,0,0,1,2
+a yellow van is in a busy town,0,0,0,0,0,0,1,3
+A red and white airplane is on the runway.,0,0,1,0,1,1,1,0
+A red and white airplane is on the runway.,0,0,1,1,1,1,1,1
+A red and white airplane is on the runway.,0,0,0,0,0,1,1,2
+A red and white airplane is on the runway.,0,0,1,0,1,1,1,3
+A large clock is outside a large building.,0,1,1,1,1,1,1,0
+A large clock is outside a large building.,0,0,1,0,0,1,1,1
+A large clock is outside a large building.,0,0,1,0,1,1,1,2
+A large clock is outside a large building.,0,1,0,1,1,0,1,3
+The meal is on the plate and ready to be eaten.,1,0,1,1,1,1,1,0
+The meal is on the plate and ready to be eaten.,0,0,1,1,1,1,1,1
+The meal is on the plate and ready to be eaten.,0,0,1,1,1,1,1,2
+The meal is on the plate and ready to be eaten.,0,0,1,1,1,1,1,3
+A frothy drink is by some strange looking bananas.,0,0,1,0,1,0,1,0
+A frothy drink is by some strange looking bananas.,0,0,1,0,1,0,1,1
+A frothy drink is by some strange looking bananas.,0,0,0,0,1,1,0,2
+A frothy drink is by some strange looking bananas.,0,0,0,0,0,0,1,3

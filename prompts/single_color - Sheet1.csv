@@ -1,0 +1,41 @@
+prompt,class,color,is_natural
+A red can.,can,red,1
+A yellow castle.,castle,yellow,0
+A blue umbrella.,umbrella,blue,1
+A brown horse.,horse,brown,1
+A pink sea.,sea,pink,0
+A red mouse.,mouse,red,0
+A green television.,television,green,0
+A yellow baby.,baby,yellow,0
+A pink remote.,remote,pink,0
+A brown rabbit.,rabbit,brown,1
+A yellow tulip.,tulip,yellow,1
+A pink clock.,clock,pink,0
+A red beaver.,beaver,red,0
+A white mushroom.,mushroom,white,1
+An orange oak tree.,oak tree,orange,0
+A yellow chair.,chair,yellow,0
+A green lobster.,lobster,green,0
+A white bear.,bear,white,1
+A purple snake.,snake,purple,0
+A pink cup.,cup,pink,1
+A red palm tree.,palm tree,red,0
+A brown car.,car,brown,1
+A white broccoli.,broccoli,white,0
+A pink cloud.,cloud,pink,0
+A pink knife.,knife,pink,0
+A green fox.,fox,green,0
+A yellow whale.,whale,yellow,0
+A green snail.,snail,green,0
+A green fire hydrant.,fire hydrant,green,0
+An orange hamster.,hamster,orange,0
+A purple forest.,forest,purple,0
+A purple road.,road,purple,0
+A green teddy bear.,teddy bear,green,0
+A blue tractor.,tractor,blue,0
+A yellow suitcase.,suitcase,yellow,1
+A yellow dolphin.,dolphin,yellow,0
+A red worm.,worm,red,1
+A red bowl.,bowl,red,1
+A white bed.,bed,white,1
+A yellow bed.,bed,yellow,0

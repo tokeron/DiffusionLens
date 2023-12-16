@@ -1,0 +1,161 @@
+prompt,class1,class2,is_natural
+A carrot in a bag.,carrot,bag,1
+A cake in a bag.,cake,bag,1
+A pizza in a refrigerator.,pizza,refrigerator,1
+A fish in a backpack.,fish,backpack,0
+A knife in a truck.,knife,truck,0
+A parking meter in a microwave.,parking meter,microwave,0
+A tennis racket in a train.,tennis racket,train,0
+A dog in a tractor.,dog,tractor,0
+A bee in a bowl.,bee,bowl,0
+A vase in a tractor.,vase,tractor,0
+A can in a bus.,can,bus,0
+A laptop in a bag.,laptop,bag,1
+A vase in a bag.,vase,bag,0
+A skunk in an airplane.,skunk,airplane,0
+A man in an airplane.,man,airplane,1
+A bag in an airplane.,bag,airplane,0
+A caterpillar in a bag.,caterpillar,bag,0
+A boy in a truck.,boy,truck,1
+A sunflower in a bowl.,sunflower,bowl,0
+A hot dog in a microwave.,hot dog,microwave,1
+A dinosaur in a car.,dinosaur,car,0
+A shark in a microwave.,shark,microwave,0
+A poppy in a tractor.,poppy,tractor,0
+A beaver in a truck.,beaver,truck,0
+A laptop in a car.,laptop,car,1
+A butterfly in a train.,butterfly,train,0
+A fish in a bowl.,fish,bowl,1
+A pizza in a suitcase.,pizza,suitcase,0
+A sunflower in a bus.,sunflower,bus,0
+A sports ball in an oven.,sports ball,oven,0
+A tennis racket in a refrigerator.,tennis racket,refrigerator,0
+A girl in a car.,girl,car,1
+A snowboard in a suitcase.,snowboard,suitcase,0
+A girl in an airplane.,girl,airplane,1
+A sandwich in an oven.,sandwich,oven,1
+A bear in a tractor.,bear,tractor,0
+A cup in a microwave.,cup,microwave,1
+A caterpillar in a refrigerator.,caterpillar,refrigerator,0
+A broccoli in a suitcase.,broccoli,suitcase,0
+An orange in a bowl.,orange,bowl,1
+A cow in a tractor.,cow,tractor,0
+A tiger in a car.,tiger,car,0
+A giraffe in a house.,giraffe,house,0
+A zebra in a refrigerator.,zebra,refrigerator,0
+A cockroach in a backpack.,cockroach,backpack,0
+A rose in an airplane.,rose,airplane,0
+A laptop in a refrigerator.,laptop,refrigerator,0
+A lawn mower in a truck.,lawn mower,truck,0
+A cloud in a house.,cloud,house,0
+A dolphin in a microwave.,dolphin,microwave,0
+A baby in a tank.,baby,tank,0
+A chimpanzee in a train.,chimpanzee,train,0
+A sweet pepper in a tank.,sweet pepper,tank,0
+A telephone in a tank.,telephone,tank,0
+A telephone in a house.,telephone,house,0
+A skunk in a truck.,skunk,truck,0
+A toothbrush in a car.,toothbrush,car,0
+A donut in a backpack.,donut,backpack,0
+A sunflower in a refrigerator.,sunflower,refrigerator,0
+A hair drier in a bowl.,hair drier,bowl,0
+A shark in a bus.,shark,bus,0
+A shrew in a bus.,shrew,bus,0
+A stop sign in a train.,stop sign,train,0
+A vase in a tank.,vase,tank,0
+A snake in an oven.,snake,oven,0
+A cup in a suitcase.,cup,suitcase,0
+A hair drier in a bag.,hair drier,bag,0
+A leopard in a car.,leopard,car,0
+A baseball glove in an oven.,baseball glove,oven,0
+An orange in a truck.,orange,truck,0
+A bee in a tractor.,bee,tractor,0
+A rose in a suitcase.,rose,suitcase,0
+A wolf in a tank.,wolf,tank,0
+A hair drier in a house.,hair drier,house,0
+A tie in a car.,tie,car,0
+A wolf in a tractor.,wolf,tractor,0
+A carrot in an oven.,carrot,oven,1
+An umbrella in a car.,umbrella,car,0
+A snake in a bowl.,snake,bowl,0
+A porcupine in a bag.,porcupine,bag,0
+A donut on a suitcase.,donut,suitcase,0
+A telephone on a refrigerator.,telephone,refrigerator,0
+A bottle on a tractor.,bottle,tractor,0
+A cake on a mountain.,cake,mountain,0
+A book on a bed.,book,bed,1
+A surfboard on a pickup truck.,surfboard,pickup truck,1
+A leopard on a tank.,leopard,tank,0
+A zebra on a bridge.,zebra,bridge,1
+A kite on a mountain.,kite,mountain,0
+A kangaroo on a suitcase.,kangaroo,suitcase,0
+A mushroom on a cloud.,mushroom,cloud,0
+A teddy bear on a road.,teddy bear,road,0
+A bee on a surfboard.,bee,surfboard,0
+An apple on a leopard.,apple,leopard,0
+A cup on a table.,cup,table,1
+A laptop on a bridge.,laptop,bridge,0
+A fox on a boat.,fox,boat,0
+A banana on a leopard.,banana,leopard,0
+A baseball glove on a cloud.,baseball glove,cloud,0
+A rose on a whale.,rose,whale,0
+A caterpillar on a bridge.,caterpillar,bridge,0
+A kangaroo on a cloud.,kangaroo,cloud,0
+A lion on a leopard.,lion,leopard,0
+A zebra on a camel.,zebra,camel,0
+A sandwich on a whale.,sandwich,whale,0
+A spider on a couch.,spider,couch,1
+A baseball bat on a plate.,baseball bat,plate,0
+A pear on a bench.,pear,bench,0
+A pear on a dolphin.,pear,dolphin,0
+A dog on a surfboard.,dog,surfboard,0
+A bee on a suitcase.,bee,suitcase,0
+A sunflower on a leopard.,sunflower,leopard,0
+A tulip on a whale.,tulip,whale,0
+A bowl on a whale.,bowl,whale,0
+An elephant on a couch.,elephant,couch,0
+A fork on a leopard.,fork,leopard,0
+A squirrel on a refrigerator.,squirrel,refrigerator,0
+A knife on a dinosaur.,knife,dinosaur,0
+A bottle on a couch.,bottle,couch,0
+A fork on a suitcase.,fork,suitcase,0
+A baseball glove on a leopard.,baseball glove,leopard,0
+A knife on a television.,knife,television,0
+A lamp on a snowboard.,lamp,snowboard,0
+A raccoon on a leopard.,raccoon,leopard,0
+A wolf on a snowboard.,wolf,snowboard,0
+A sheep on a bench.,sheep,bench,0
+A book on a car.,book,car,0
+An orchid on a table.,orchid,table,1
+A broccoli on a dolphin.,broccoli,dolphin,0
+A snake on a cloud.,snake,cloud,0
+A pear on a bicycle.,pear,bicycle,0
+A stop sign on a bench.,stop sign,bench,0
+A stop sign on a car.,stop sign,car,0
+A wardrobe on a pickup truck.,wardrobe,pickup truck,1
+A chimpanzee on a chair.,chimpanzee,chair,0
+A stop sign on a table.,stop sign,table,0
+A bowl on a bridge.,bowl,bridge,0
+A raccoon on a truck.,raccoon,truck,0
+A pear on a chair.,pear,chair,0
+A frisbee on a cloud.,frisbee,cloud,0
+A lobster on a whale.,lobster,whale,0
+A mushroom on a car.,mushroom,car,0
+A sheep on a snowboard.,sheep,snowboard,0
+A baseball bat on a snowboard.,baseball bat,snowboard,0
+A baseball glove on a plate.,baseball glove,plate,0
+A remote on a snowboard.,remote,snowboard,0
+A kite on a table.,kite,table,0
+A clock on a train.,clock,train,0
+A tv on a bridge.,tv,bridge,0
+A dog on a bridge.,dog,bridge,1
+A book on a surfboard.,book,surfboard,0
+A can on a bridge.,can,bridge,0
+A knife on a leopard.,knife,leopard,0
+A boy on a bicycle.,boy,bicycle,1
+A porcupine on a mountain.,porcupine,mountain,1
+A bottle on a mountain.,bottle,mountain,0
+A lizard on a palm tree.,lizard,palm tree,1
+A microwave on a table.,microwave,table,1
+A crocodile on a bridge.,crocodile,bridge,0
+A bag on a couch.,bag,couch,1

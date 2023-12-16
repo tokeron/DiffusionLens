@@ -1,0 +1,321 @@
+prompt,3,7,11,15,19,23,seed
+A donut on a suitcase.,0,0,10,10,9,10,0
+A donut on a suitcase.,4,6,7,10,10,10,1
+A donut on a suitcase.,0,10,0,10,10,10,2
+A donut on a suitcase.,0,0,8,10,10,10,3
+A telephone on a refrigerator.,1,5,7,10,10,5,0
+A telephone on a refrigerator.,0,0,5,0,0,6,1
+A telephone on a refrigerator.,0,0,8,0,10,10,2
+A telephone on a refrigerator.,0,0,0,10,10,10,3
+A bottle on a tractor.,5,0,5,5,10,10,0
+A bottle on a tractor.,8,5,0,4,0,10,1
+A bottle on a tractor.,4,5,5,0,0,3,2
+A bottle on a tractor.,2,0,1,0,5,0,3
+A cake on a mountain.,4,6,10,10,8,10,0
+A cake on a mountain.,5,8,0,10,10,10,1
+A cake on a mountain.,4,7,0,10,10,10,2
+A cake on a mountain.,6,8,0,10,10,8,3
+A book on a bed.,1,10,7,10,10,10,0
+A book on a bed.,0,10,5,10,10,10,1
+A book on a bed.,0,10,10,10,10,10,2
+A book on a bed.,0,10,10,10,10,10,3
+A surfboard on a pickup truck.,0,0,0,10,8,10,0
+A surfboard on a pickup truck.,8,5,10,10,10,10,1
+A surfboard on a pickup truck.,0,5,10,10,10,0,2
+A surfboard on a pickup truck.,0,0,5,10,10,10,3
+A leopard on a tank.,0,8,6,10,10,10,0
+A leopard on a tank.,0,6,7,10,10,10,1
+A leopard on a tank.,2,8,10,0,10,10,2
+A leopard on a tank.,5,8,7,8,10,10,3
+A zebra on a bridge.,0,0,0,7,10,10,0
+A zebra on a bridge.,0,10,8,10,10,10,1
+A zebra on a bridge.,0,8,10,9,10,10,2
+A zebra on a bridge.,0,8,10,10,8,10,3
+A kite on a mountain.,5,0,0,10,8,10,0
+A kite on a mountain.,2,0,7,6,8,8,1
+A kite on a mountain.,0,0,0,7,8,6,2
+A kite on a mountain.,5,0,7,6,7,10,3
+A kangaroo on a suitcase.,0,4,0,8,8,10,0
+A kangaroo on a suitcase.,1,0,8,10,10,10,1
+A kangaroo on a suitcase.,0,0,0,0,10,10,2
+A kangaroo on a suitcase.,0,8,8,8,10,10,3
+A mushroom on a cloud.,0,4,10,5,7,0,0
+A mushroom on a cloud.,6,0,5,10,6,10,1
+A mushroom on a cloud.,0,8,10,4,10,9,2
+A mushroom on a cloud.,4,2,10,10,8,10,3
+A teddy bear on a road.,4,8,0,10,10,8,0
+A teddy bear on a road.,2,0,8,10,10,10,1
+A teddy bear on a road.,4,8,0,0,10,10,2
+A teddy bear on a road.,4,7,10,10,10,10,3
+A bee on a surfboard.,0,1,0,8,8,10,0
+A bee on a surfboard.,2,10,5,10,10,10,1
+A bee on a surfboard.,0,8,0,10,10,10,2
+A bee on a surfboard.,0,4,8,10,8,10,3
+An apple on a leopard.,0,8,10,0,10,0,0
+An apple on a leopard.,1,8,10,0,0,8,1
+An apple on a leopard.,0,5,10,8,10,10,2
+An apple on a leopard.,0,0,0,10,1,10,3
+A cup on a table.,0,10,10,10,10,10,0
+A cup on a table.,1,8,4,10,10,10,1
+A cup on a table.,5,6,10,10,10,10,2
+A cup on a table.,2,0,7,10,10,10,3
+A laptop on a bridge.,0,0,0,10,10,10,0
+A laptop on a bridge.,5,10,9,0,0,10,1
+A laptop on a bridge.,0,9,10,0,10,10,2
+A laptop on a bridge.,2,0,0,10,10,10,3
+A fox on a boat.,0,8,10,10,9,10,0
+A fox on a boat.,0,7,10,8,10,10,1
+A fox on a boat.,2,8,2,10,8,10,2
+A fox on a boat.,0,10,10,10,10,10,3
+A banana on a leopard.,0,0,10,10,0,10,0
+A banana on a leopard.,0,0,0,0,0,10,1
+A banana on a leopard.,0,2,5,5,8,10,2
+A banana on a leopard.,2,0,2,10,6,10,3
+A baseball glove on a cloud.,0,5,0,8,7,10,0
+A baseball glove on a cloud.,0,0,0,8,10,10,1
+A baseball glove on a cloud.,2,0,0,0,10,10,2
+A baseball glove on a cloud.,5,0,8,0,8,10,3
+A rose on a whale.,6,5,10,0,0,10,0
+A rose on a whale.,0,8,0,0,0,10,1
+A rose on a whale.,0,0,0,0,10,10,2
+A rose on a whale.,0,8,1,10,8,10,3
+A caterpillar on a bridge.,0,0,0,10,10,0,0
+A caterpillar on a bridge.,0,0,0,10,10,10,1
+A caterpillar on a bridge.,2,0,1,0,10,0,2
+A caterpillar on a bridge.,1,1,0,10,10,10,3
+A kangaroo on a cloud.,0,6,8,8,8,8,0
+A kangaroo on a cloud.,0,0,7,7,10,10,1
+A kangaroo on a cloud.,0,0,10,8,10,10,2
+A kangaroo on a cloud.,0,7,1,7,8,10,3
+A lion on a leopard.,llf,llf,llf,llf,llf,10,0
+A lion on a leopard.,llf,llf,llf,llf,llf,10,1
+A lion on a leopard.,llf,llf,llf,llf,llf,5,2
+A lion on a leopard.,llf,llf,llf,llf,llf,10,3
+A zebra on a camel.,llf,llf,llf,llf,llf,10,0
+A zebra on a camel.,llf,llf,llf,llf,llf,10,1
+A zebra on a camel.,llf,llf,llf,llf,llf,10,2
+A zebra on a camel.,llf,llf,llf,llf,llf,10,3
+A sandwich on a whale.,llf,llf,llf,llf,llf,1,0
+A sandwich on a whale.,llf,llf,llf,llf,llf,4,1
+A sandwich on a whale.,llf,llf,llf,llf,llf,0,2
+A sandwich on a whale.,llf,llf,llf,llf,llf,10,3
+A spider on a couch.,0,5,10,10,10,10,0
+A spider on a couch.,0,4,8,10,10,10,1
+A spider on a couch.,1,6,0,10,10,10,2
+A spider on a couch.,2,0,10,9,10,10,3
+A baseball bat on a plate.,0,0,0,10,8,10,0
+A baseball bat on a plate.,3,0,10,2,1,10,1
+A baseball bat on a plate.,0,0,0,0,0,10,2
+A baseball bat on a plate.,2,0,0,10,10,10,3
+A pear on a bench.,2,8,10,10,10,10,0
+A pear on a bench.,2,7,10,10,10,10,1
+A pear on a bench.,2,0,7,10,10,10,2
+A pear on a bench.,7,10,10,10,10,10,3
+A pear on a dolphin.,0,0,10,0,10,5,0
+A pear on a dolphin.,0,0,0,10,0,10,1
+A pear on a dolphin.,0,0,10,0,8,0,2
+A pear on a dolphin.,0,0,0,10,6,10,3
+A dog on a surfboard.,0,7,10,10,10,10,0
+A dog on a surfboard.,2,10,6,10,10,10,1
+A dog on a surfboard.,8,8,10,10,10,10,2
+A dog on a surfboard.,0,10,10,10,10,10,3
+A bee on a suitcase.,4,0,10,8,10,10,0
+A bee on a suitcase.,1,8,7,10,10,10,1
+A bee on a suitcase.,2,7,0,10,10,10,2
+A bee on a suitcase.,5,10,7,10,10,10,3
+A sunflower on a leopard.,0,2,10,6,8,8,0
+A sunflower on a leopard.,0,5,0,6,0,10,1
+A sunflower on a leopard.,0,0,6,2,0,8,2
+A sunflower on a leopard.,3,5,0,0,0,10,3
+A tulip on a whale.,5,6,10,0,5,0,0
+A tulip on a whale.,0,8,0,10,0,6,1
+A tulip on a whale.,5,10,0,0,10,7,2
+A tulip on a whale.,0,5,7,10,10,6,3
+A bowl on a whale.,6,5,10,8,0,0,0
+A bowl on a whale.,5,8,0,10,0,10,1
+A bowl on a whale.,0,8,10,10,10,6,2
+A bowl on a whale.,5,5,0,10,0,0,3
+An elephant on a couch.,0,7,8,10,10,0,0
+An elephant on a couch.,0,5,10,10,10,10,1
+An elephant on a couch.,0,8,0,10,10,10,2
+An elephant on a couch.,2,0,10,10,10,10,3
+A fork on a leopard.,llf,llf,llf,llf,llf,0,0
+A fork on a leopard.,llf,llf,llf,llf,llf,0,1
+A fork on a leopard.,llf,llf,llf,llf,llf,0,2
+A fork on a leopard.,llf,llf,llf,llf,llf,0,3
+A squirrel on a refrigerator.,0,2,8,8,10,10,0
+A squirrel on a refrigerator.,0,10,10,10,10,10,1
+A squirrel on a refrigerator.,0,10,0,0,10,10,2
+A squirrel on a refrigerator.,0,6,10,10,10,10,3
+A knife on a dinosaur.,10,10,10,10,10,0,0
+A knife on a dinosaur.,8,10,10,10,0,10,1
+A knife on a dinosaur.,0,10,10,10,0,10,2
+A knife on a dinosaur.,5,5,5,10,10,10,3
+A bottle on a couch.,0,6,10,10,9,10,0
+A bottle on a couch.,0,1,0,10,10,10,1
+A bottle on a couch.,0,5,0,8,8,10,2
+A bottle on a couch.,4,2,7,10,10,10,3
+A fork on a suitcase.,4,10,10,10,10,10,0
+A fork on a suitcase.,0,10,10,10,10,10,1
+A fork on a suitcase.,1,10,10,10,7,10,2
+A fork on a suitcase.,4,0,10,10,10,10,3
+A baseball glove on a leopard.,0,8,0,10,10,8,0
+A baseball glove on a leopard.,0,6,10,10,10,10,1
+A baseball glove on a leopard.,0,10,10,10,0,8,2
+A baseball glove on a leopard.,0,5,10,10,10,8,3
+A knife on a television.,4,10,10,10,10,10,0
+A knife on a television.,3,10,10,0,10,10,1
+A knife on a television.,1,10,10,10,10,10,2
+A knife on a television.,5,10,10,10,10,10,3
+A lamp on a snowboard.,llf,llf,llf,llf,llf,10,0
+A lamp on a snowboard.,llf,llf,llf,llf,llf,10,1
+A lamp on a snowboard.,llf,llf,llf,llf,llf,10,2
+A lamp on a snowboard.,llf,llf,llf,llf,llf,10,3
+A raccoon on a leopard.,llf,llf,llf,llf,llf,10,0
+A raccoon on a leopard.,llf,llf,llf,llf,llf,10,1
+A raccoon on a leopard.,llf,llf,llf,llf,llf,10,2
+A raccoon on a leopard.,llf,llf,llf,llf,llf,10,3
+A wolf on a snowboard.,0,8,8,10,10,10,0
+A wolf on a snowboard.,0,8,9,0,10,10,1
+A wolf on a snowboard.,0,7,0,10,10,10,2
+A wolf on a snowboard.,0,10,10,10,10,10,3
+A sheep on a bench.,0,8,10,10,10,10,0
+A sheep on a bench.,7,10,10,10,10,10,1
+A sheep on a bench.,2,10,10,8,10,9,2
+A sheep on a bench.,0,8,10,10,10,10,3
+A book on a car.,1,1,10,8,0,10,0
+A book on a car.,2,10,10,10,7,10,1
+A book on a car.,0,10,10,10,0,10,2
+A book on a car.,2,10,0,10,10,10,3
+An orchid on a table.,1,3,8,8,10,10,0
+An orchid on a table.,0,8,7,8,10,10,1
+An orchid on a table.,0,7,10,8,10,10,2
+An orchid on a table.,0,4,7,10,10,10,3
+A broccoli on a dolphin.,0,8,10,10,10,10,0
+A broccoli on a dolphin.,0,0,10,10,8,10,1
+A broccoli on a dolphin.,1,0,7,10,10,10,2
+A broccoli on a dolphin.,0,10,0,10,10,10,3
+A snake on a cloud.,1,0,9,10,10,10,0
+A snake on a cloud.,0,2,10,0,10,0,1
+A snake on a cloud.,0,0,0,0,10,5,2
+A snake on a cloud.,2,0,0,8,10,10,3
+A pear on a bicycle.,2,3,8,10,10,10,0
+A pear on a bicycle.,1,0,1,7,10,10,1
+A pear on a bicycle.,0,1,0,0,10,10,2
+A pear on a bicycle.,0,10,0,10,10,10,3
+A stop sign on a bench.,0,4,0,6,0,10,0
+A stop sign on a bench.,5,0,1,2,2,0,1
+A stop sign on a bench.,0,5,0,0,10,10,2
+A stop sign on a bench.,0,0,0,8,8,10,3
+A stop sign on a car.,4,0,0,0,0,8,0
+A stop sign on a car.,1,8,4,0,0,10,1
+A stop sign on a car.,2,10,0,0,0,10,2
+A stop sign on a car.,2,0,0,9,8,10,3
+A wardrobe on a pickup truck.,llf,llf,llf,llf,llf,0,0
+A wardrobe on a pickup truck.,llf,llf,llf,llf,llf,0,1
+A wardrobe on a pickup truck.,llf,llf,llf,llf,llf,0,2
+A wardrobe on a pickup truck.,llf,llf,llf,llf,llf,4,3
+A chimpanzee on a chair.,0,8,2,7,10,10,0
+A chimpanzee on a chair.,8,10,8,0,10,10,1
+A chimpanzee on a chair.,0,0,10,10,10,10,2
+A chimpanzee on a chair.,0,5,10,10,10,10,3
+A stop sign on a table.,0,0,0,0,8,9,0
+A stop sign on a table.,1,1,5,0,0,10,1
+A stop sign on a table.,2,0,6,0,3,10,2
+A stop sign on a table.,0,1,9,10,3,10,3
+A bowl on a bridge.,2,7,0,0,0,10,0
+A bowl on a bridge.,5,4,1,0,0,10,1
+A bowl on a bridge.,6,5,7,1,10,10,2
+A bowl on a bridge.,2,10,1,10,10,10,3
+A raccoon on a truck.,0,10,0,10,10,10,0
+A raccoon on a truck.,0,10,10,10,10,10,1
+A raccoon on a truck.,5,10,10,10,10,10,2
+A raccoon on a truck.,2,10,10,10,10,10,3
+A pear on a chair.,0,0,10,10,10,10,0
+A pear on a chair.,2,0,10,10,10,10,1
+A pear on a chair.,3,0,0,0,10,10,2
+A pear on a chair.,5,0,10,10,10,10,3
+A frisbee on a cloud.,llf,llf,llf,llf,llf,1,0
+A frisbee on a cloud.,llf,llf,llf,llf,llf,10,1
+A frisbee on a cloud.,llf,llf,llf,llf,llf,5,2
+A frisbee on a cloud.,llf,llf,llf,llf,llf,0,3
+A lobster on a whale.,0,10,10,10,10,6,0
+A lobster on a whale.,2,0,10,10,10,8,1
+A lobster on a whale.,0,10,10,4,10,10,2
+A lobster on a whale.,2,8,10,10,10,10,3
+A mushroom on a car.,2,0,10,10,10,10,0
+A mushroom on a car.,0,0,10,10,10,10,1
+A mushroom on a car.,0,10,8,10,10,7,2
+A mushroom on a car.,0,0,10,10,10,10,3
+A sheep on a snowboard.,0,10,10,10,8,10,0
+A sheep on a snowboard.,0,10,10,10,10,10,1
+A sheep on a snowboard.,0,10,8,5,10,10,2
+A sheep on a snowboard.,0,10,10,10,10,10,3
+A baseball bat on a snowboard.,llf,llf,llf,llf,llf,10,0
+A baseball bat on a snowboard.,llf,llf,llf,llf,llf,10,1
+A baseball bat on a snowboard.,llf,llf,llf,llf,llf,10,2
+A baseball bat on a snowboard.,llf,llf,llf,llf,llf,10,3
+A baseball glove on a plate.,2,6,0,10,10,10,0
+A baseball glove on a plate.,6,0,10,10,10,10,1
+A baseball glove on a plate.,1,10,10,10,10,8,2
+A baseball glove on a plate.,6,0,10,10,8,10,3
+A remote on a snowboard.,0,5,1,10,8,10,0
+A remote on a snowboard.,5,0,0,5,10,5,1
+A remote on a snowboard.,2,0,0,5,10,10,2
+A remote on a snowboard.,0,0,10,0,8,8,3
+A kite on a table.,1,0,8,0,8,10,0
+A kite on a table.,0,1,0,0,8,10,1
+A kite on a table.,4,0,6,8,7,10,2
+A kite on a table.,0,3,2,10,8,10,3
+A clock on a train.,5,10,10,10,8,8,0
+A clock on a train.,10,10,10,10,10,10,1
+A clock on a train.,0,8,10,10,9,10,2
+A clock on a train.,2,8,10,10,10,10,3
+A tv on a bridge.,0,0,0,10,8,8,0
+A tv on a bridge.,4,9,7,10,7,10,1
+A tv on a bridge.,2,0,0,10,8,10,2
+A tv on a bridge.,0,0,0,10,10,10,3
+A dog on a bridge.,2,8,10,10,10,10,0
+A dog on a bridge.,2,10,10,10,10,10,1
+A dog on a bridge.,8,10,0,0,10,10,2
+A dog on a bridge.,5,10,10,10,0,10,3
+A book on a surfboard.,1,10,0,7,0,0,0
+A book on a surfboard.,4,3,0,10,10,0,1
+A book on a surfboard.,0,0,10,0,0,10,2
+A book on a surfboard.,0,0,0,10,10,10,3
+A can on a bridge.,0,0,0,10,10,0,0
+A can on a bridge.,1,0,5,10,0,10,1
+A can on a bridge.,4,10,0,0,0,10,2
+A can on a bridge.,4,2,0,10,10,8,3
+A knife on a leopard.,10,0,10,10,10,10,0
+A knife on a leopard.,10,10,10,0,8,10,1
+A knife on a leopard.,2,10,10,10,0,2,2
+A knife on a leopard.,2,3,0,10,10,0,3
+A boy on a bicycle.,0,5,4,8,10,8,0
+A boy on a bicycle.,4,0,7,7,8,10,1
+A boy on a bicycle.,0,0,4,5,10,8,2
+A boy on a bicycle.,0,0,0,0,10,10,3
+A porcupine on a mountain.,0,0,8,10,10,10,0
+A porcupine on a mountain.,2,5,10,10,10,8,1
+A porcupine on a mountain.,0,8,0,8,8,8,2
+A porcupine on a mountain.,1,8,4,10,10,10,3
+A bottle on a mountain.,3,8,0,10,10,10,0
+A bottle on a mountain.,2,0,0,10,10,10,1
+A bottle on a mountain.,3,0,0,10,10,10,2
+A bottle on a mountain.,5,4,0,10,8,10,3
+A lizard on a palm tree.,0,8,10,10,10,10,0
+A lizard on a palm tree.,0,10,0,10,10,10,1
+A lizard on a palm tree.,5,7,0,10,10,10,2
+A lizard on a palm tree.,0,0,10,10,10,9,3
+A microwave on a table.,2,0,8,10,10,10,0
+A microwave on a table.,0,8,10,10,10,10,1
+A microwave on a table.,0,0,10,10,10,10,2
+A microwave on a table.,0,7,8,10,8,10,3
+A crocodile on a bridge.,1,0,10,0,10,10,0
+A crocodile on a bridge.,0,3,10,1,10,10,1
+A crocodile on a bridge.,0,4,10,0,10,10,2
+A crocodile on a bridge.,0,0,8,10,10,10,3
+A bag on a couch.,5,5,10,10,0,10,0
+A bag on a couch.,0,10,10,10,10,10,1
+A bag on a couch.,4,10,10,10,10,10,2
+A bag on a couch.,4,8,2,10,10,10,3

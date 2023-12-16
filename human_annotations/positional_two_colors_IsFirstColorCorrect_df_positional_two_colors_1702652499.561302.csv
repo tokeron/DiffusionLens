@@ -1,0 +1,29 @@
+prompt,0,4,8,12,16,20,24,seed
+An orange suitcase and a pink orchid.,0,0,0,0,1,1,1,0
+An orange suitcase and a pink orchid.,0,0,0,0,1,1,1,1
+An orange suitcase and a pink orchid.,0,0,1,0,1,1,1,2
+An orange suitcase and a pink orchid.,0,0,0,0,1,1,1,3
+A purple bag and an orange snail.,0,0,1,0,0,0,1,0
+A purple bag and an orange snail.,0,0,1,0,1,0,1,1
+A purple bag and an orange snail.,0,0,1,1,0,0,1,2
+A purple bag and an orange snail.,0,1,1,0,0,0,1,3
+An orange baseball bat and a brown snake.,0,0,0,1,0,0,0,0
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,0,1
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,1,2
+An orange baseball bat and a brown snake.,0,1,0,0,0,0,0,3
+A white leopard and a red castle.,0,0,1,1,0,1,0,0
+A white leopard and a red castle.,0,0,0,1,0,0,0,1
+A white leopard and a red castle.,0,0,1,0,0,0,1,2
+A white leopard and a red castle.,0,0,1,0,0,0,1,3
+A blue skyscraper and a yellow sports ball.,0,0,0,0,0,1,1,0
+A blue skyscraper and a yellow sports ball.,0,0,0,0,1,1,1,1
+A blue skyscraper and a yellow sports ball.,0,0,0,0,0,1,1,2
+A blue skyscraper and a yellow sports ball.,0,0,0,0,0,1,1,3
+A blue table and a pink couch.,0,1,0,0,0,0,0,0
+A blue table and a pink couch.,0,0,0,0,0,0,0,1
+A blue table and a pink couch.,0,0,0,0,0,0,0,2
+A blue table and a pink couch.,0,0,0,0,0,0,0,3
+A purple bear and an orange plate.,,0,0,0,0,,,0
+A purple bear and an orange plate.,,0,0,0,,0,,1
+A purple bear and an orange plate.,0,0,0,0,0,0,,2
+A purple bear and an orange plate.,0,,0,0,,,1,3

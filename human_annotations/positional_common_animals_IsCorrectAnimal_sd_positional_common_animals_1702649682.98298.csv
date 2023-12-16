@@ -1,0 +1,73 @@
+prompt,3,7,11,15,19,23,seed
+A photo of a Labrador Retriever.,0,0,1,1,1,1,0
+A photo of a Labrador Retriever.,0,0,0,1,1,1,1
+A photo of a Labrador Retriever.,0,1,1,1,1,1,2
+A photo of a Labrador Retriever.,0,1,1,1,1,1,3
+A photo of a Dachshund.,0,1,1,1,1,1,0
+A photo of a Dachshund.,0,1,1,1,1,1,1
+A photo of a Dachshund.,0,1,1,1,1,1,2
+A photo of a Dachshund.,0,1,1,1,1,1,3
+A photo of a Bulldog.,0,1,1,1,1,1,0
+A photo of a Bulldog.,0,0,1,1,1,1,1
+A photo of a Bulldog.,0,1,1,1,1,1,2
+A photo of a Bulldog.,0,1,1,1,1,1,3
+A photo of a Ragdoll.,0,0,0,0,1,1,0
+A photo of a Ragdoll.,0,0,0,0,1,1,1
+A photo of a Ragdoll.,0,0,0,0,1,1,2
+A photo of a Ragdoll.,0,0,0,0,1,1,3
+A photo of a Kangaroo.,0,1,1,1,1,1,0
+A photo of a Kangaroo.,0,1,1,1,1,1,1
+A photo of a Kangaroo.,0,0,1,1,1,1,2
+A photo of a Kangaroo.,0,1,1,1,1,1,3
+A photo of a Chicken.,0,0,0,0,1,1,0
+A photo of a Chicken.,0,0,0,0,1,1,1
+A photo of a Chicken.,0,0,0,0,1,1,2
+A photo of a Chicken.,0,0,0,1,1,1,3
+A photo of an Owl.,1,0,1,1,1,1,0
+A photo of an Owl.,1,1,1,1,1,1,1
+A photo of an Owl.,1,1,1,0,1,1,2
+A photo of an Owl.,1,1,1,1,1,1,3
+A photo of an Eagle.,0,0,0,1,1,1,0
+A photo of an Eagle.,0,0,1,1,1,1,1
+A photo of an Eagle.,0,0,1,1,1,1,2
+A photo of an Eagle.,0,0,0,1,1,1,3
+A photo of a Salmon.,0,0,0,0,1,1,0
+A photo of a Salmon.,0,0,0,0,1,1,1
+A photo of a Salmon.,0,0,0,0,0,1,2
+A photo of a Salmon.,0,0,0,0,0,1,3
+A photo of a Catfish.,0,0,0,1,1,1,0
+A photo of a Catfish.,0,0,0,1,1,1,1
+A photo of a Catfish.,0,0,0,1,1,1,2
+A photo of a Catfish.,0,0,0,0,1,1,3
+A photo of a Cod.,0,0,1,1,1,1,0
+A photo of a Cod.,0,0,0,1,1,0,1
+A photo of a Cod.,0,0,0,1,1,1,2
+A photo of a Cod.,0,0,0,1,1,1,3
+A photo of an Orca.,1,0,1,1,1,1,0
+A photo of an Orca.,1,0,1,1,1,1,1
+A photo of an Orca.,0,0,1,1,1,1,2
+A photo of an Orca.,0,0,1,1,1,1,3
+A photo of a Komodo dragon.,0,0,0,0,1,1,0
+A photo of a Komodo dragon.,0,0,0,0,1,0,1
+A photo of a Komodo dragon.,0,0,0,0,1,1,2
+A photo of a Komodo dragon.,0,0,0,1,0,1,3
+A photo of a King cobra.,0,0,0,1,1,1,0
+A photo of a King cobra.,0,0,1,1,1,1,1
+A photo of a King cobra.,0,0,0,1,1,1,2
+A photo of a King cobra.,0,0,1,1,1,1,3
+A photo of a Platypus.,0,1,0,1,1,1,0
+A photo of a Platypus.,0,0,1,0,1,1,1
+A photo of a Platypus.,0,0,0,0,1,1,2
+A photo of a Platypus.,0,0,1,1,1,1,3
+A photo of a Narwhal.,0,0,0,0,1,1,0
+A photo of a Narwhal.,0,0,0,0,1,1,1
+A photo of a Narwhal.,0,0,1,0,0,1,2
+A photo of a Narwhal.,0,0,0,0,0,0,3
+A photo of an Ostrich.,0,0,0,1,1,1,0
+A photo of an Ostrich.,0,0,0,0,1,1,1
+A photo of an Ostrich.,0,0,0,0,1,1,2
+A photo of an Ostrich.,0,0,0,0,1,1,3
+A photo of a cougar.,0,0,1,1,1,1,0
+A photo of a cougar.,0,0,1,1,1,1,1
+A photo of a cougar.,0,0,0,1,1,1,2
+A photo of a cougar.,0,0,0,1,1,1,3

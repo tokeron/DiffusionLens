@@ -1,0 +1,318 @@
+prompt,0,4,8,12,16,20,24,seed
+A red can.,5,0,6,10,6,10,9,0
+A red can.,0,0,0,0,5,10,10,1
+A red can.,5,0,6,Error,7,10,10,2
+A red can.,0,0,0,10,5,5,10,3
+A yellow castle.,0,6,8,6,6,4,10,0
+A yellow castle.,Error,0,7,9,8,8,8,1
+A yellow castle.,0,0,8,7,4,7,8,2
+A yellow castle.,1,4,10,7,8,8,10,3
+A blue umbrella.,0,0,10,10,10,10,8,0
+A blue umbrella.,0,10,10,8,10,10,10,1
+A blue umbrella.,8,0,10,10,9,10,10,2
+A blue umbrella.,10,0,10,10,10,9,10,3
+A brown horse.,0,1,10,6,4,7,8,0
+A brown horse.,0,0,10,8,7,8,10,1
+A brown horse.,0,0,7,8,10,5,9,2
+A brown horse.,5,0,6,8,7,10,10,3
+A pink sea.,7,5,8,5,8,8,7,0
+A pink sea.,0,6,7,6,5,8,7,1
+A pink sea.,0,0,6,6,8,7,10,2
+A pink sea.,0,3,5,6,8,7,10,3
+A red mouse.,0,4,1,5,8,10,1,0
+A red mouse.,5,"0,0",8,Error,7,10,6,1
+A red mouse.,6,0,Error,Error,Error,10,8,2
+A red mouse.,3,0,10,Error,6,10,8,3
+A green television.,1,0,8,9,9,6,10,0
+A green television.,0,0,10,"6,",6,10,10,1
+A green television.,1,0,6,10,8,8,9,2
+A green television.,"0,0",0,10,10,9,8,10,3
+A yellow baby.,llf,llf,llf,llf,llf,llf,0,0
+A yellow baby.,llf,llf,llf,llf,llf,llf,5,1
+A yellow baby.,llf,llf,llf,llf,llf,llf,0,2
+A yellow baby.,llf,llf,llf,llf,llf,llf,0,3
+A pink remote.,0,5,10,0,5,9,10,0
+A pink remote.,0,"0,0",0,1,2,10,10,1
+A pink remote.,0,5,10,5,10,10,10,2
+A pink remote.,5,0,5,0,5,10,10,3
+A brown rabbit.,0,2,10,10,8,10,10,0
+A brown rabbit.,0,0,10,8,8,9,10,1
+A brown rabbit.,0,5,10,10,7,8,7,2
+A brown rabbit.,4,0,10,8,10,8,10,3
+A yellow tulip.,0,5,7,0,10,10,9,0
+A yellow tulip.,0,0,8,8,8,10,10,1
+A yellow tulip.,0,0,7,7,10,8,8,2
+A yellow tulip.,0,0,6,7,10,10,10,3
+A pink clock.,5,0,10,10,7,10,10,0
+A pink clock.,5,5,10,7,8,10,10,1
+A pink clock.,0,4,10,5,9,10,10,2
+A pink clock.,6,0,10,7,10,10,10,3
+A red beaver.,llf,llf,llf,llf,llf,llf,6,0
+A red beaver.,llf,llf,llf,llf,llf,llf,4,1
+A red beaver.,llf,llf,llf,llf,llf,llf,4,2
+A red beaver.,llf,llf,llf,llf,llf,llf,5,3
+A white mushroom.,0,0,6,6,7,5,10,0
+A white mushroom.,0,5,9,7,5,0,10,1
+A white mushroom.,5,1,0,0,7,8,10,2
+A white mushroom.,0,"0,0",7,5,8,10,10,3
+An orange oak tree.,5,5,10,6,6,4,5,0
+An orange oak tree.,5,5,7,6,6,5,10,1
+An orange oak tree.,5,5,5,5,4,5,3,2
+An orange oak tree.,6,5,6,4,5,3,6,3
+A yellow chair.,10,5,10,6,10,4,10,0
+A yellow chair.,10,0,8,There is a yellow chair in the image. 10,10,10,10,1
+A yellow chair.,5,4,10,8,10,10,10,2
+A yellow chair.,10,0,9,10,10,10,10,3
+A green lobster.,0,5,10,5,8,1,10,0
+A green lobster.,0,5,8,1,6,7,10,1
+A green lobster.,0,5,8,10,2,7,10,2
+A green lobster.,0,4,0,8,6,8,0,3
+A white bear.,0,5,8,8,10,10,10,0
+A white bear.,5,0,9,10,8,8,10,1
+A white bear.,8,0,6,7,10,10,10,2
+A white bear.,8,0,8,5,10,10,10,3
+A purple snake.,0,5,"0,10",2,8,8,10,0
+A purple snake.,3,0,5,4,9,10,10,1
+A purple snake.,8,0,5,5,5,10,10,2
+A purple snake.,0,5,0,6,5,0,10,3
+A pink cup.,6,10,10,10,7,10,10,0
+A pink cup.,0,1,10,0,10,10,10,1
+A pink cup.,8,0,10,10,10,10,10,2
+A pink cup.,10,0,10,10,5,7,10,3
+A red palm tree.,5,5,10,5,6,10,10,0
+A red palm tree.,4,7,6,1,6,8,8,1
+A red palm tree.,5,8,8,6,6,7,10,2
+A red palm tree.,0,6,6,4,6,1,7,3
+A brown car.,0,0,10,5,10,8,10,0
+A brown car.,4,0,8,10,10,7,10,1
+A brown car.,0,0,10,1,10,7,10,2
+A brown car.,1,5,0,8,8,7,10,3
+A white broccoli.,0,0,5,1,1,9,10,0
+A white broccoli.,0,5,1,1,5,1,8,1
+A white broccoli.,0,1,4,2,0,1,1,2
+A white broccoli.,0,1,8,2,5,6,7,3
+A pink cloud.,8,0,5,7,7,8,10,0
+A pink cloud.,0,0,7,8,8,10,10,1
+A pink cloud.,2,0,7,8,9,10,10,2
+A pink cloud.,6,0,6,7,6,5,10,3
+A pink knife.,0,5,4,0,8,5,8,0
+A pink knife.,0,5,1,1,10,10,10,1
+A pink knife.,0,0,"1,10",7,10,10,10,2
+A pink knife.,0,0,0,6,0,7,4,3
+A green fox.,3,1,0,1,0,0,10,0
+A green fox.,0,1,4,2,0,10,1,1
+A green fox.,1,0,4,10,1,1,10,2
+A green fox.,0,0,0,4,"2,0",10,1,3
+A yellow whale.,llf,llf,llf,llf,llf,llf,0,0
+A yellow whale.,llf,llf,llf,llf,llf,llf,1,1
+A yellow whale.,llf,llf,llf,llf,llf,llf,1,2
+A yellow whale.,llf,llf,llf,llf,llf,llf,1,3
+A green snail.,0,5,0,4,5,10,7,0
+A green snail.,"0,0",0,7,4,5,10,7,1
+A green snail.,7,"I'm sorry, but I can't assist with requests involving",8,0,4,5,10,2
+A green snail.,7,0,5,5,5,5,10,3
+A green fire hydrant.,0,1,10,1,10,10,10,0
+A green fire hydrant.,0,0,9,10,10,10,10,1
+A green fire hydrant.,0,7,4,8,10,10,10,2
+A green fire hydrant.,Error,0,10,10,10,10,10,3
+An orange hamster.,0,0,0,0,5,7,10,0
+An orange hamster.,0,0,5,0,7,10,10,1
+An orange hamster.,0,0,10,5,5,10,10,2
+An orange hamster.,0,0,0,5,4,8,6,3
+A purple forest.,2,7,6,8,6,7,10,0
+A purple forest.,6,6,8,7,6,8,8,1
+A purple forest.,8,6,10,6,6,8,8,2
+A purple forest.,5,6,8,6,6,7,10,3
+A purple road.,0,6,7,6,7,10,6,0
+A purple road.,"0,0",6,8,7,8,6,5,1
+A purple road.,0,6,5,8,6,2,6,2
+A purple road.,0,"Sorry, I am not able to help with this request.",10,8,8,4,6,3
+A green teddy bear.,0,8,10,10,10,10,10,0
+A green teddy bear.,10,8,10,10,10,10,10,1
+A green teddy bear.,0,6,8,10,10,10,10,2
+A green teddy bear.,6,8,2,7,10,10,10,3
+A blue tractor.,0,0,10,8,8,10,10,0
+A blue tractor.,0,0,10,9,8,10,10,1
+A blue tractor.,0,0,6,7,8,10,9,2
+A blue tractor.,0,5,8,8,10,10,10,3
+A yellow suitcase.,0,0,10,10,10,10,10,0
+A yellow suitcase.,2,0,8,10,10,10,10,1
+A yellow suitcase.,8,0,10,8,10,10,10,2
+A yellow suitcase.,0,5,10,9,10,7,10,3
+A yellow dolphin.,"8,0",0,0,1,4,6,5,0
+A yellow dolphin.,8,2,8,6,5,1,10,1
+A yellow dolphin.,0,2,2,0,1,0,6,2
+A yellow dolphin.,1,5,5,7,1,8,10,3
+A red worm.,1,0,2,0,0,8,10,0
+A red worm.,Error,0,2,0,8,8,6,1
+A red worm.,0,1,4,5,6,6,10,2
+A red worm.,2,2,0,8,4,6,6,3
+A red bowl.,10,8,10,8,10,10,10,0
+A red bowl.,5,5,10,10,10,10,10,1
+A red bowl.,1,8,10,10,10,10,10,2
+A red bowl.,0,8,10,10,10,10,10,3
+A white bed.,10,0,10,10,10,8,10,0
+A white bed.,8,0,9,7,8,8,10,1
+A white bed.,10,0,6,10,10,8,8,2
+A white bed.,10,0,8,8,9,9,10,3
+A yellow bed.,4,0,10,8,10,9,10,0
+A yellow bed.,0,0,6,7,10,10,9,1
+A yellow bed.,5,5,10,8,7,0,0,2
+A yellow bed.,7,0,5,9,8,10,0,3
+A white cockroach.,0,0,5,5,7,10,10,0
+A white cockroach.,0,0,8,0,5,0,10,1
+A white cockroach.,0,1,6,0,7,9,0,2
+A white cockroach.,0,0,8,1,10,10,10,3
+A blue car.,0,0,0,8,8,7,10,0
+A blue car.,0,0,"I'm sorry, I cannot assist with this request.",10,10,10,10,1
+A blue car.,1,0,6,8,10,10,10,2
+A blue car.,0,0,5,8,10,10,10,3
+A blue palm tree.,llf,llf,llf,llf,llf,llf,1,0
+A blue palm tree.,llf,llf,llf,llf,llf,llf,2,1
+A blue palm tree.,llf,llf,llf,llf,llf,llf,5,2
+A blue palm tree.,llf,llf,llf,llf,llf,llf,1,3
+An orange orchid.,0,0,5,5,7,4,9,0
+An orange orchid.,1,5,6,6,8,6,8,1
+An orange orchid.,0,0,6,4,7,6,8,2
+An orange orchid.,6,1,0,4,6,9,10,3
+A yellow knife.,0,4,5,6,8,8,10,0
+A yellow knife.,0,0,5,0,10,10,10,1
+A yellow knife.,5,0,5,10,7,10,6,2
+A yellow knife.,0,5,5,10,6,8,10,3
+A brown camel.,0,0,0,5,8,7,9,0
+A brown camel.,0,5,5,6,8,10,10,1
+A brown camel.,1,0,8,6,10,8,10,2
+A brown camel.,0,1,8,7,8,8,10,3
+A green turtle.,0,5,8,5,8,10,4,0
+A green turtle.,0,6,8,6,5,8,10,1
+A green turtle.,0,6,8,10,5,8,10,2
+A green turtle.,7,1,6,8,8,10,8,3
+A green bee.,"0,0",5,5,5,2,10,8,0
+A green bee.,1,5,4,5,4,8,10,1
+A green bee.,0,5,6,Error,4,4,8,2
+A green bee.,1,0,5,5,6,6,0,3
+A blue chair.,7,0,10,7,10,10,10,0
+A blue chair.,10,5,10,6,10,10,10,1
+A blue chair.,8,"I'm sorry, I can't assist with this request.",7,9,8,10,10,2
+A blue chair.,9,5,7,10,7,9,10,3
+A pink mouse.,0,0,1,5,0,10,10,0
+A pink mouse.,0,0,1,0,5,10,10,1
+A pink mouse.,0,0,6,5,0,8,3,2
+A pink mouse.,Error,0,0,6,0,6,10,3
+A pink hamster.,0,0,0,2,3,1,8,0
+A pink hamster.,0,0,0,0,1,4,10,1
+A pink hamster.,0,0,8,2,5,8,8,2
+A pink hamster.,0,0,5,5,2,8,7,3
+A brown truck.,4,4,10,10,10,8,10,0
+A brown truck.,0,5,8,8,10,10,10,1
+A brown truck.,5,0,6,10,9,10,8,2
+A brown truck.,2,0,10,8,10,5,10,3
+A brown spider.,8,1,7,5,5,6,8,0
+A brown spider.,7,2,4,4,8,8,8,1
+A brown spider.,5,4,5,4,5,6,9,2
+A brown spider.,4,0,5,6,7,7,9,3
+A green raccoon.,0,2,4,4,1,0,10,0
+A green raccoon.,0,0,6,5,2,1,10,1
+A green raccoon.,0,1,5,5,1,"1,0",8,2
+A green raccoon.,2,0,0,10,0,4,0,3
+A white cloud.,5,5,7,8,8,10,10,0
+A white cloud.,8,0,6,7,7,7,8,1
+A white cloud.,10,0,7,5,7,10,10,2
+A white cloud.,10,0,10,8,8,8,10,3
+A black mushroom.,3,6,1,0,2,5,9,0
+A black mushroom.,4,1,6,2,0,8,10,1
+A black mushroom.,1,0,7,2,2,8,10,2
+A black mushroom.,0,5,0,4,4,8,7,3
+An orange porcupine.,0,0,4,4,6,5,9,0
+An orange porcupine.,0,0,6,4,6,1,8,1
+An orange porcupine.,0,5,"0,0",3,7,5,5,2
+An orange porcupine.,1,0,5,5,5,5,7,3
+A blue sweet pepper.,0,0,2,2,2,6,8,0
+A blue sweet pepper.,0,1,0,1,1,2,10,1
+A blue sweet pepper.,0,0,6,1,1,1,10,2
+A blue sweet pepper.,1,0,7,5,2,1,10,3
+A green remote.,0,3,8,3,5,5,10,0
+A green remote.,5,2,5,8,5,0,10,1
+A green remote.,0,0,"0,10",8,8,10,10,2
+A green remote.,0,0,10,10,5,10,10,3
+A brown hot dog.,0,2,8,5,7,4,10,0
+A brown hot dog.,0,0,5,4,4,4,8,1
+A brown hot dog.,1,3,2,8,6,10,5,2
+A brown hot dog.,1,0,0,"I'm sorry, I can't assist with this request.",5,8,8,3
+A yellow tractor.,0,1,9,8,9,10,8,0
+A yellow tractor.,0,0,8,8,8,8,10,1
+A yellow tractor.,0,0,6,7,7,10,10,2
+A yellow tractor.,0,0,9,6,9,9,10,3
+A purple chair.,1,6,6,10,6,10,10,0
+A purple chair.,8,"Sorry, I can't help with identifying or making assumptions about",10,5,10,9,10,1
+A purple chair.,9,0,10,10,10,10,10,2
+A purple chair.,10,2,10,10,"0,0",10,10,3
+A brown road.,0,"I'm sorry, I can't assist with that request.",6,6,5,7,7,0
+A brown road.,Error,0,7,7,4,7,6,1
+A brown road.,0,0,10,4,4,6,9,2
+A brown road.,4,0,6,6,7,7,7,3
+A red refrigerator.,0,2,10,10,10,10,10,0
+A red refrigerator.,0,0,10,10,10,10,10,1
+A red refrigerator.,0,4,10,6,9,9,10,2
+A red refrigerator.,0,1,10,10,10,10,10,3
+A purple oven.,0,0,0,6,5,5,7,0
+A purple oven.,0,0,8,0,5,10,10,1
+A purple oven.,0,0,6,0,0,3,10,2
+A purple oven.,0,0,0,8,0,6,10,3
+A red sheep.,0,"0,0",Error,0,0,10,1,0
+A red sheep.,0,0,0,2,0,10,10,1
+A red sheep.,0,0,1,2,6,8,10,2
+A red sheep.,5,0,0,0,0,2,10,3
+A purple can.,0,0,0,0,0,10,10,0
+A purple can.,0,0,0,0,9,10,10,1
+A purple can.,0,0,1,0,0,10,10,2
+A purple can.,3,0,0,0,8,10,10,3
+A yellow boat.,0,0,9,10,7,10,10,0
+A yellow boat.,5,5,9,9,10,10,0,1
+A yellow boat.,8,0,9,10,8,10,10,2
+A yellow boat.,5,0,1,8,6,9,9,3
+A yellow zebra.,0,7,5,6,8,1,0,0
+A yellow zebra.,0,4,5,6,2,3,5,1
+A yellow zebra.,0,"I'm sorry, I can't assist with this request.",6,4,1,6,8,2
+A yellow zebra.,0,5,5,5,1,"5
+",6,3
+A green wardrobe.,0,1,2,6,7,10,10,0
+A green wardrobe.,0,5,10,7,7,10,10,1
+A green wardrobe.,1,3,7,7,8,10,10,2
+A green wardrobe.,5,0,7,6,9,5,0,3
+A black plate.,0,0,10,8,7,8,8,0
+A black plate.,5,5,10,5,5,9,10,1
+A black plate.,4,0,10,8,10,0,10,2
+A black plate.,0,0,10,10,7,0,0,3
+A brown crab.,0,6,6,7,5,8,6,0
+A brown crab.,0,0,6,2,4,8,8,1
+A brown crab.,2,6,4,8,7,8,6,2
+A brown crab.,0,0,7,7,7,5,5,3
+A blue skyscraper.,0,5,0,5,6,8,7,0
+A blue skyscraper.,0,8,1,7,6,8,7,1
+A blue skyscraper.,0,6,6,0,7,8,8,2
+A blue skyscraper.,0,0,0,6,7,9,8,3
+A brown dog.,0,0,8,5,6,8,8,0
+A brown dog.,0,2,6,8,8,7,10,1
+A brown dog.,0,0,7,3,8,8,10,2
+A brown dog.,4,0,2,6,6,10,9,3
+An orange airplane.,0,3,8,8,8,10,10,0
+An orange airplane.,0,0,6,7,10,10,8,1
+An orange airplane.,2,0,10,10,6,10,10,2
+An orange airplane.,5,0,4,8,6,9,10,3
+A pink refrigerator.,0,0,10,10,10,10,10,0
+A pink refrigerator.,0,0,10,8,10,10,10,1
+A pink refrigerator.,5,0,8,10,10,10,10,2
+A pink refrigerator.,0,0,10,10,9,10,10,3
+A yellow mouse.,0,2,5,8,8,8,10,0
+A yellow mouse.,0,0,5,8,5,8,8,1
+A yellow mouse.,0,5,2,10,5,5,"4,10",2
+A yellow mouse.,5,0,5,7,10,9,6,3
+A white poppy.,0,0,7,6,5,10,10,0
+A white poppy.,0,0,8,7,6,10,9,1
+A white poppy.,0,0,8,6,5,6,10,2
+A white poppy.,0,0,8,8,10,8,10,3
+A black banana.,0,1,6,0,0,10,5,0
+A black banana.,0,1,6,1,6,8,8,1
+A black banana.,0,1,0,3,8,10,10,2
+A black banana.,0,0,3,5,4,10,9,3

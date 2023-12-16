@@ -1,0 +1,153 @@
+prompt,0,4,8,12,16,20,24,seed
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,0,0
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,0,1
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,1,2
+An orange baseball bat and a brown snake.,0,0,0,0,0,0,0,3
+A white leopard and a red castle.,0,0,1,0,0,1,1,0
+A white leopard and a red castle.,0,0,0,0,0,0,1,1
+A white leopard and a red castle.,0,0,0,0,0,1,1,2
+A white leopard and a red castle.,0,0,1,0,0,1,1,3
+A blue skyscraper and a yellow sports ball.,0,0,0,0,0,1,1,0
+A blue skyscraper and a yellow sports ball.,0,0,0,0,1,1,1,1
+A blue skyscraper and a yellow sports ball.,0,0,1,0,0,1,1,2
+A blue skyscraper and a yellow sports ball.,0,0,0,0,0,1,1,3
+A yellow maple tree and a white sheep.,0,0,0,0,0,1,0,0
+A yellow maple tree and a white sheep.,0,0,0,0,0,0,0,1
+A yellow maple tree and a white sheep.,0,0,0,0,0,1,0,2
+A yellow maple tree and a white sheep.,0,0,1,0,0,0,0,3
+A pink bench and an orange toaster.,0,1,1,1,1,1,1,0
+A pink bench and an orange toaster.,0,0,1,1,1,1,0,1
+A pink bench and an orange toaster.,0,1,1,1,1,1,0,2
+A pink bench and an orange toaster.,0,1,1,1,1,1,1,3
+A black bird and a green bear.,0,0,0,1,0,1,1,0
+A black bird and a green bear.,0,0,0,0,0,1,1,1
+A black bird and a green bear.,0,0,0,0,0,1,1,2
+A black bird and a green bear.,0,0,0,0,0,1,1,3
+A brown pizza and an orange bottle.,0,1,0,0,0,1,1,0
+A brown pizza and an orange bottle.,0,0,0,0,0,1,1,1
+A brown pizza and an orange bottle.,0,0,0,0,0,1,1,2
+A brown pizza and an orange bottle.,0,0,0,0,0,1,1,3
+A black forest and a purple bus.,0,0,1,0,0,0,0,0
+A black forest and a purple bus.,0,0,0,1,1,0,1,1
+A black forest and a purple bus.,0,0,1,1,1,1,1,2
+A black forest and a purple bus.,0,0,0,0,1,1,1,3
+A green porcupine and a black surfboard.,0,0,0,1,1,0,1,0
+A green porcupine and a black surfboard.,0,0,1,1,0,0,1,1
+A green porcupine and a black surfboard.,0,0,0,1,0,1,0,2
+A green porcupine and a black surfboard.,0,0,1,1,1,0,1,3
+A yellow wolf and a black teddy bear.,0,0,0,1,0,1,0,0
+A yellow wolf and a black teddy bear.,0,0,0,1,1,1,1,1
+A yellow wolf and a black teddy bear.,0,0,0,1,1,1,1,2
+A yellow wolf and a black teddy bear.,0,0,0,1,0,0,0,3
+An orange maple tree and a purple vase.,0,0,0,0,0,1,1,0
+An orange maple tree and a purple vase.,1,1,1,0,0,1,1,1
+An orange maple tree and a purple vase.,0,1,1,0,0,1,1,2
+An orange maple tree and a purple vase.,0,0,0,0,1,0,1,3
+A blue table and a pink couch.,0,1,0,0,0,0,1,0
+A blue table and a pink couch.,0,1,1,0,0,1,0,1
+A blue table and a pink couch.,0,0,0,0,0,0,1,2
+A blue table and a pink couch.,0,0,0,1,1,0,0,3
+A red oak tree and a green car.,0,0,1,1,1,1,1,0
+A red oak tree and a green car.,1,0,1,1,1,1,1,1
+A red oak tree and a green car.,1,0,1,1,1,1,1,2
+A red oak tree and a green car.,0,1,1,1,1,1,1,3
+A green cat and a blue rocket.,0,0,1,1,1,0,1,0
+A green cat and a blue rocket.,0,0,0,1,0,0,0,1
+A green cat and a blue rocket.,0,1,0,0,1,0,1,2
+A green cat and a blue rocket.,0,1,1,0,0,1,1,3
+A red forest and a white skateboard.,0,1,0,1,1,0,1,0
+A red forest and a white skateboard.,0,0,1,1,1,1,1,1
+A red forest and a white skateboard.,0,0,1,1,1,1,1,2
+A red forest and a white skateboard.,0,0,1,1,1,1,1,3
+An orange giraffe and a blue castle.,0,0,1,0,0,0,1,0
+An orange giraffe and a blue castle.,0,0,0,0,1,1,1,1
+An orange giraffe and a blue castle.,0,0,0,1,0,1,1,2
+An orange giraffe and a blue castle.,0,0,0,0,0,1,1,3
+A purple bear and an orange plate.,0,0,1,0,0,1,1,0
+A purple bear and an orange plate.,0,0,1,0,1,1,1,1
+A purple bear and an orange plate.,0,0,0,0,1,1,1,2
+A purple bear and an orange plate.,1,1,1,1,1,1,1,3
+A blue banana and a red sink.,0,0,1,0,1,1,1,0
+A blue banana and a red sink.,0,0,0,0,0,1,0,1
+A blue banana and a red sink.,0,0,0,0,0,0,1,2
+A blue banana and a red sink.,0,0,0,0,0,1,1,3
+A yellow boat and a white bear.,1,0,0,1,1,1,1,0
+A yellow boat and a white bear.,1,1,1,1,1,1,1,1
+A yellow boat and a white bear.,1,1,1,1,0,1,1,2
+A yellow boat and a white bear.,1,0,0,1,0,1,1,3
+A red snake and a yellow fork.,0,0,1,1,1,1,1,0
+A red snake and a yellow fork.,0,0,1,1,1,0,1,1
+A red snake and a yellow fork.,0,0,1,1,0,1,0,2
+A red snake and a yellow fork.,0,0,1,1,1,1,1,3
+A blue toilet and a pink umbrella.,0,0,0,0,0,0,1,0
+A blue toilet and a pink umbrella.,0,0,0,0,0,0,1,1
+A blue toilet and a pink umbrella.,0,0,0,0,0,1,0,2
+A blue toilet and a pink umbrella.,0,0,0,0,0,0,1,3
+A black kite and a red raccoon.,0,0,1,0,0,0,0,0
+A black kite and a red raccoon.,1,0,1,0,0,0,0,1
+A black kite and a red raccoon.,0,0,,0,0,0,0,2
+A black kite and a red raccoon.,0,0,0,0,1,0,1,3
+A green oak tree and a white giraffe.,0,0,1,1,1,1,1,0
+A green oak tree and a white giraffe.,0,0,1,1,0,1,1,1
+A green oak tree and a white giraffe.,0,0,1,1,1,1,1,2
+A green oak tree and a white giraffe.,1,0,1,1,1,0,1,3
+A green fork and a yellow boy.,0,0,0,0,0,0,1,0
+A green fork and a yellow boy.,0,0,0,0,0,1,1,1
+A green fork and a yellow boy.,0,0,1,0,0,0,1,2
+A green fork and a yellow boy.,0,0,0,0,0,1,1,3
+A green sea and a purple bottle.,1,0,1,1,1,1,1,0
+A green sea and a purple bottle.,1,0,1,1,1,1,1,1
+A green sea and a purple bottle.,0,0,1,1,1,1,1,2
+A green sea and a purple bottle.,0,0,1,1,1,1,1,3
+A blue hot dog and a white leopard.,0,0,0,0,0,0,1,0
+A blue hot dog and a white leopard.,0,0,0,0,0,0,0,1
+A blue hot dog and a white leopard.,0,0,0,0,0,0,0,2
+A blue hot dog and a white leopard.,0,0,0,0,0,1,1,3
+A green bench and a brown tie.,0,0,0,0,1,1,1,0
+A green bench and a brown tie.,0,0,0,0,1,1,1,1
+A green bench and a brown tie.,0,0,0,1,0,0,1,2
+A green bench and a brown tie.,1,0,0,1,1,1,1,3
+A pink raccoon and a blue rocket.,0,0,,1,0,1,1,0
+A pink raccoon and a blue rocket.,0,0,0,1,1,1,1,1
+A pink raccoon and a blue rocket.,0,0,0,1,,0,1,2
+A pink raccoon and a blue rocket.,0,0,0,0,0,1,1,3
+A yellow otter and a blue flatfish.,0,0,0,0,1,0,0,0
+A yellow otter and a blue flatfish.,0,0,0,0,0,0,0,1
+A yellow otter and a blue flatfish.,0,0,0,0,0,0,0,2
+A yellow otter and a blue flatfish.,0,0,0,0,0,0,0,3
+A black cell phone and a yellow sea.,0,0,1,1,0,1,1,0
+A black cell phone and a yellow sea.,0,0,1,1,1,1,1,1
+A black cell phone and a yellow sea.,0,0,0,0,0,1,1,2
+A black cell phone and a yellow sea.,0,0,0,0,1,0,1,3
+A blue chimpanzee and a green seal.,0,0,0,1,1,1,1,0
+A blue chimpanzee and a green seal.,0,0,0,0,1,1,1,1
+A blue chimpanzee and a green seal.,0,0,0,0,1,0,1,2
+A blue chimpanzee and a green seal.,0,0,0,0,0,1,1,3
+A purple boy and a white bed.,0,1,1,1,0,1,1,0
+A purple boy and a white bed.,0,1,1,1,1,0,1,1
+A purple boy and a white bed.,0,1,1,0,1,0,1,2
+A purple boy and a white bed.,0,1,1,1,0,0,0,3
+A yellow camel and an orange plate.,0,0,1,0,0,1,1,0
+A yellow camel and an orange plate.,0,0,0,0,1,1,1,1
+A yellow camel and an orange plate.,0,0,0,0,0,0,1,2
+A yellow camel and an orange plate.,0,0,1,1,1,0,1,3
+A brown stop sign and a pink oven.,0,0,0,1,0,1,1,0
+A brown stop sign and a pink oven.,0,1,1,0,1,1,0,1
+A brown stop sign and a pink oven.,0,0,0,0,0,0,1,2
+A brown stop sign and a pink oven.,0,0,0,1,0,0,1,3
+An orange tractor and a red orange.,0,0,1,1,1,1,1,0
+An orange tractor and a red orange.,0,0,1,1,1,1,1,1
+An orange tractor and a red orange.,0,0,1,1,1,1,1,2
+An orange tractor and a red orange.,0,0,0,1,1,1,1,3
+A brown toothbrush and a pink sunflower.,0,0,0,0,0,0,1,0
+A brown toothbrush and a pink sunflower.,0,0,0,0,0,0,0,1
+A brown toothbrush and a pink sunflower.,0,0,0,0,0,0,1,2
+A brown toothbrush and a pink sunflower.,0,0,0,0,0,0,0,3
+A white lizard and an orange kangaroo.,0,0,0,0,1,1,0,0
+A white lizard and an orange kangaroo.,0,0,0,1,1,0,0,1
+A white lizard and an orange kangaroo.,0,0,1,1,0,1,0,2
+A white lizard and an orange kangaroo.,0,0,0,1,1,0,1,3
+A black snowboard and a white can.,0,0,1,1,0,1,1,0
+A black snowboard and a white can.,0,0,1,0,1,1,1,1
+A black snowboard and a white can.,0,1,1,1,1,1,1,2
+A black snowboard and a white can.,0,0,1,1,1,0,1,3

@@ -1,0 +1,81 @@
+prompt,0,4,8,12,16,20,24,seed
+A donut on a suitcase.,0,0,1,0,0,1,1,0
+A donut on a suitcase.,0,0,1,0,0,0,1,1
+A donut on a suitcase.,0,1,1,1,0,1,1,2
+A donut on a suitcase.,0,0,1,1,0,1,1,3
+A telephone on a refrigerator.,0,0,1,1,1,0,0,0
+A telephone on a refrigerator.,0,1,1,1,0,1,1,1
+A telephone on a refrigerator.,0,1,1,0,1,1,1,2
+A telephone on a refrigerator.,0,0,1,0,0,1,0,3
+A bottle on a tractor.,0,0,1,1,0,1,1,0
+A bottle on a tractor.,0,0,1,0,1,1,1,1
+A bottle on a tractor.,0,0,0,0,0,0,1,2
+A bottle on a tractor.,0,0,1,0,0,1,1,3
+A cake on a mountain.,0,1,1,1,0,0,1,0
+A cake on a mountain.,0,1,1,0,0,1,0,1
+A cake on a mountain.,0,1,1,1,0,1,1,2
+A cake on a mountain.,0,1,1,1,0,0,0,3
+A book on a bed.,0,0,1,0,0,1,1,0
+A book on a bed.,0,0,1,0,1,1,1,1
+A book on a bed.,1,0,1,0,0,1,1,2
+A book on a bed.,0,0,1,1,1,1,1,3
+A surfboard on a pickup truck.,0,0,1,1,0,1,1,0
+A surfboard on a pickup truck.,0,0,0,1,1,1,1,1
+A surfboard on a pickup truck.,0,0,1,0,0,1,1,2
+A surfboard on a pickup truck.,0,0,0,0,0,1,1,3
+A leopard on a tank.,1,0,0,0,0,0,1,0
+A leopard on a tank.,1,0,0,0,0,0,0,1
+A leopard on a tank.,1,0,0,0,0,0,0,2
+A leopard on a tank.,1,0,0,0,0,0,1,3
+A zebra on a bridge.,0,0,0,0,1,1,1,0
+A zebra on a bridge.,0,0,0,0,1,1,1,1
+A zebra on a bridge.,0,0,0,0,0,0,1,2
+A zebra on a bridge.,0,0,0,0,0,1,1,3
+A kite on a mountain.,0,0,0,1,1,1,1,0
+A kite on a mountain.,0,0,0,1,1,1,1,1
+A kite on a mountain.,0,0,1,1,0,1,1,2
+A kite on a mountain.,0,0,1,1,1,1,1,3
+A kangaroo on a suitcase.,0,0,0,0,0,1,1,0
+A kangaroo on a suitcase.,0,0,0,0,0,0,1,1
+A kangaroo on a suitcase.,0,0,0,1,1,1,1,2
+A kangaroo on a suitcase.,0,0,0,0,1,1,1,3
+A mushroom on a cloud.,0,0,1,1,1,1,1,0
+A mushroom on a cloud.,0,1,1,1,0,1,1,1
+A mushroom on a cloud.,0,0,1,0,0,1,1,2
+A mushroom on a cloud.,0,1,1,1,1,1,1,3
+A teddy bear on a road.,0,1,1,0,0,1,1,0
+A teddy bear on a road.,0,1,1,0,1,1,1,1
+A teddy bear on a road.,1,1,1,0,1,1,1,2
+A teddy bear on a road.,1,1,1,1,1,1,1,3
+A bee on a surfboard.,0,0,1,1,1,1,1,0
+A bee on a surfboard.,0,0,1,1,1,1,1,1
+A bee on a surfboard.,0,1,1,1,1,1,1,2
+A bee on a surfboard.,0,0,1,1,1,0,1,3
+An apple on a leopard.,0,0,1,0,1,1,1,0
+An apple on a leopard.,0,0,0,0,1,1,1,1
+An apple on a leopard.,0,0,1,1,1,1,1,2
+An apple on a leopard.,0,0,1,1,1,1,0,3
+A cup on a table.,0,0,1,0,1,1,1,0
+A cup on a table.,0,0,1,1,1,1,1,1
+A cup on a table.,0,0,1,1,1,1,1,2
+A cup on a table.,1,0,1,1,1,1,1,3
+A laptop on a bridge.,0,0,0,0,0,1,1,0
+A laptop on a bridge.,0,0,0,0,0,1,1,1
+A laptop on a bridge.,0,0,1,0,1,1,1,2
+A laptop on a bridge.,0,0,1,0,0,1,1,3
+A fox on a boat.,0,0,0,0,1,1,1,0
+A fox on a boat.,0,1,1,,1,1,1,1
+A fox on a boat.,0,0,1,0,1,1,1,2
+A fox on a boat.,0,1,1,1,1,1,1,3
+A banana on a leopard.,0,1,1,1,1,0,0,0
+A banana on a leopard.,0,0,1,1,1,1,1,1
+A banana on a leopard.,0,0,1,0,1,1,1,2
+A banana on a leopard.,0,0,1,1,0,1,1,3
+A baseball glove on a cloud.,0,0,0,0,1,0,0,0
+A baseball glove on a cloud.,0,0,0,0,0,1,0,1
+A baseball glove on a cloud.,0,0,0,0,0,0,1,2
+A baseball glove on a cloud.,0,0,0,0,0,1,0,3
+A rose on a whale.,0,0,0,1,0,0,1,0
+A rose on a whale.,0,1,0,0,0,0,1,1
+A rose on a whale.,0,0,1,0,0,0,1,2
+A rose on a whale.,0,0,1,0,1,0,1,3

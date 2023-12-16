@@ -1,0 +1,317 @@
+prompt,3,7,11,15,19,23,seed
+A carrot in a bag.,1,10,10,10,10,10.0,0.0
+A carrot in a bag.,0,0,10,10,10,10.0,1.0
+A carrot in a bag.,0,7,0,0,0,10.0,2.0
+A carrot in a bag.,0,10,10,10,10,10.0,3.0
+A cake in a bag.,0,0,1,8,10,7.0,0.0
+A cake in a bag.,0,0,0,7,7,9.0,1.0
+A cake in a bag.,2,2,6,5,6,10.0,2.0
+A cake in a bag.,0,0,9,6,9,8.0,3.0
+A fish in a backpack.,2,0,0,10,10,10.0,0.0
+A fish in a backpack.,4,5,0,10,10,10.0,1.0
+A fish in a backpack.,2,1,5,3,10,10.0,2.0
+A fish in a backpack.,2,0,0,5,10,10.0,3.0
+A knife in a truck.,0,10,10,10,10,10.0,0.0
+A knife in a truck.,6,10,0,0,10,10.0,1.0
+A knife in a truck.,5,10,10,10,10,10.0,2.0
+A knife in a truck.,0,10,10,0,10,10.0,3.0
+A parking meter in a microwave.,llf,llf,llf,llf,llf,8.0,0.0
+A parking meter in a microwave.,llf,llf,llf,llf,llf,10.0,1.0
+A parking meter in a microwave.,llf,llf,llf,llf,llf,3.0,2.0
+A parking meter in a microwave.,llf,llf,llf,llf,llf,10.0,3.0
+A tennis racket in a train.,llf,llf,llf,llf,llf,10.0,0.0
+A tennis racket in a train.,llf,llf,llf,llf,llf,0.0,1.0
+A tennis racket in a train.,llf,llf,llf,llf,llf,10.0,2.0
+A tennis racket in a train.,llf,llf,llf,llf,llf,10.0,3.0
+A dog in a tractor.,0,10,10,10,10,10.0,0.0
+A dog in a tractor.,5,10,10,10,10,8.0,1.0
+A dog in a tractor.,4,10,5,0,10,10.0,2.0
+A dog in a tractor.,5,8,0,10,10,10.0,3.0
+A bee in a bowl.,0,3,8,9,10,10.0,0.0
+A bee in a bowl.,5,8,8,10,10,10.0,1.0
+A bee in a bowl.,1,0,8,10,10,8.0,2.0
+A bee in a bowl.,0,8,5,10,10,10.0,3.0
+A vase in a tractor.,0,0,10,10,10,8.0,0.0
+A vase in a tractor.,5,10,8,10,6,10.0,1.0
+A vase in a tractor.,2,6,0,0,10,10.0,2.0
+A vase in a tractor.,3,0,9,1,10,1.0,3.0
+A can in a bus.,0,0,5,10,10,10.0,0.0
+A can in a bus.,0,0,8,4,0,10.0,1.0
+A can in a bus.,0,10,2,10,0,4.0,2.0
+A can in a bus.,1,4,1,10,0,10.0,3.0
+A laptop in a bag.,0,4,10,10,10,0.0,0.0
+A laptop in a bag.,8,0,7,10,10,10.0,1.0
+A laptop in a bag.,5,5,10,10,10,10.0,2.0
+A laptop in a bag.,2,10,10,10,8,8.0,3.0
+A vase in a bag.,llf,llf,llf,llf,llf,5.0,0.0
+A vase in a bag.,llf,llf,llf,llf,llf,0.0,1.0
+A vase in a bag.,llf,llf,llf,llf,llf,5.0,2.0
+A vase in a bag.,llf,llf,llf,llf,llf,0.0,3.0
+A skunk in an airplane.,0,0,0,10,10,8.0,0.0
+A skunk in an airplane.,0,5,8,0,8,8.0,1.0
+A skunk in an airplane.,0,7,0,10,10,8.0,2.0
+A skunk in an airplane.,0,2,0,8,10,10.0,3.0
+A man in an airplane.,2,7,8,10,0,10.0,0.0
+A man in an airplane.,4,0,7,10,10,10.0,1.0
+A man in an airplane.,5,8,10,0,8,10.0,2.0
+A man in an airplane.,0,8,0,10,10,10.0,3.0
+A bag in an airplane.,4,8,6,10,8,10.0,0.0
+A bag in an airplane.,0,10,10,8,10,10.0,1.0
+A bag in an airplane.,4,8,10,8,10,10.0,2.0
+A bag in an airplane.,0,8,5,10,10,8.0,3.0
+A caterpillar in a bag.,2,0,9,7,10,8.0,0.0
+A caterpillar in a bag.,2,0,1,6,10,10.0,1.0
+A caterpillar in a bag.,1,0,0,8,8,10.0,2.0
+A caterpillar in a bag.,0,0,0,0,8,10.0,3.0
+A boy in a truck.,6,7,6,5,0,10.0,0.0
+A boy in a truck.,0,4,10,3,10,10.0,1.0
+A boy in a truck.,0,5,5,5,0,10.0,2.0
+A boy in a truck.,0,6,8,7,10,10.0,3.0
+A sunflower in a bowl.,1,1,10,8,10,10.0,0.0
+A sunflower in a bowl.,0,0,5,10,10,10.0,1.0
+A sunflower in a bowl.,2,0,5,10,10,9.0,2.0
+A sunflower in a bowl.,0,0,0,0,10,6.0,3.0
+A hot dog in a microwave.,0,8,10,10,10,8.0,0.0
+A hot dog in a microwave.,0,7,10,8,10,10.0,1.0
+A hot dog in a microwave.,0,10,8,9,10,10.0,2.0
+A hot dog in a microwave.,4,10,8,8,10,10.0,3.0
+A dinosaur in a car.,0,0,8,0,10,10.0,0.0
+A dinosaur in a car.,8,8,10,0,10,10.0,1.0
+A dinosaur in a car.,1,6,0,10,10,10.0,2.0
+A dinosaur in a car.,0,10,10,10,8,8.0,3.0
+A shark in a microwave.,0,0,8,8,8,10.0,0.0
+A shark in a microwave.,0,1,0,10,7,10.0,1.0
+A shark in a microwave.,0,0,0,7,8,10.0,2.0
+A shark in a microwave.,0,8,10,0,8,10.0,3.0
+A poppy in a tractor.,3,6,7,10,8,7.0,0.0
+A poppy in a tractor.,2,6,0,8,2,10.0,1.0
+A poppy in a tractor.,1,6,0,0,10,10.0,2.0
+A poppy in a tractor.,0,10,8,5,10,10.0,3.0
+A beaver in a truck.,1,8,0,10,10,6.0,0.0
+A beaver in a truck.,0,5,0,4,10,10.0,1.0
+A beaver in a truck.,0,0,0,0,8,8.0,2.0
+A beaver in a truck.,0,0,2,0,10,10.0,3.0
+A laptop in a car.,1,6,10,10,10,10.0,0.0
+A laptop in a car.,5,10,8,8,8,10.0,1.0
+A laptop in a car.,0,0,10,10,0,10.0,2.0
+A laptop in a car.,0,10,0,7,0,10.0,3.0
+A butterfly in a train.,2,8,7,0,10,10.0,0.0
+A butterfly in a train.,2,8,0,0,0,10.0,1.0
+A butterfly in a train.,0,10,0,8,8,10.0,2.0
+A butterfly in a train.,0,10,2,0,10,10.0,3.0
+A fish in a bowl.,0,0,10,10,10,8.0,0.0
+A fish in a bowl.,0,0,0,10,10,10.0,1.0
+A fish in a bowl.,0,7,0,10,10,10.0,2.0
+A fish in a bowl.,0,10,10,0,10,10.0,3.0
+A pizza in a suitcase.,2,8,8,10,10,10.0,0.0
+A pizza in a suitcase.,6,10,10,10,10,10.0,1.0
+A pizza in a suitcase.,0,6,10,6,7,10.0,2.0
+A pizza in a suitcase.,4,6,9,8,10,10.0,3.0
+A sunflower in a bus.,0,5,10,10,10,10.0,0.0
+A sunflower in a bus.,0,0,10,10,10,10.0,1.0
+A sunflower in a bus.,0,5,0,8,10,10.0,2.0
+A sunflower in a bus.,0,0,8,2,10,10.0,3.0
+A sports ball in an oven.,0,0,9,10,0,10.0,0.0
+A sports ball in an oven.,5,0,10,10,1,10.0,1.0
+A sports ball in an oven.,1,10,8,5,6,10.0,2.0
+A sports ball in an oven.,0,0,0,10,10,10.0,3.0
+A tennis racket in a refrigerator.,3,7,10,10,10,9.0,0.0
+A tennis racket in a refrigerator.,0,0,10,8,10,10.0,1.0
+A tennis racket in a refrigerator.,4,10,8,0,10,8.0,2.0
+A tennis racket in a refrigerator.,0,0,10,10,10,10.0,3.0
+A girl in a car.,2,8,10,10,5,10.0,0.0
+A girl in a car.,0,10,8,10,10,10.0,1.0
+A girl in a car.,0,10,5,10,10,10.0,2.0
+A girl in a car.,0,8,7,10,10,10.0,3.0
+A snowboard in a suitcase.,2,5,8,8,8,10.0,0.0
+A snowboard in a suitcase.,4,6,0,10,0,10.0,1.0
+A snowboard in a suitcase.,3,5,8,8,0,7.0,2.0
+A snowboard in a suitcase.,0,6,0,5,10,10.0,3.0
+A girl in an airplane.,0,8,0,9,8,10.0,0.0
+A girl in an airplane.,0,5,9,8,10,10.0,1.0
+A girl in an airplane.,3,8,10,0,8,10.0,2.0
+A girl in an airplane.,0,10,5,10,8,10.0,3.0
+A sandwich in an oven.,0,4,10,10,7,6.0,0.0
+A sandwich in an oven.,1,0,10,7,10,10.0,1.0
+A sandwich in an oven.,5,0,5,10,10,10.0,2.0
+A sandwich in an oven.,0,7,5,10,10,10.0,3.0
+A bear in a tractor.,0,5,8,10,10,10.0,0.0
+A bear in a tractor.,2,8,8,8,10,10.0,1.0
+A bear in a tractor.,4,8,0,0,10,10.0,2.0
+A bear in a tractor.,3,10,10,8,10,10.0,3.0
+A cup in a microwave.,2,10,0,10,1,2.0,0.0
+A cup in a microwave.,2,8,8,1,8,10.0,1.0
+A cup in a microwave.,0,6,8,0,10,0.0,2.0
+A cup in a microwave.,0,1,0,10,5,10.0,3.0
+A caterpillar in a refrigerator.,0,0,2,10,10,10.0,0.0
+A caterpillar in a refrigerator.,1,0,0,2,10,10.0,1.0
+A caterpillar in a refrigerator.,0,0,0,0,9,8.0,2.0
+A caterpillar in a refrigerator.,0,1,8,0,10,10.0,3.0
+A broccoli in a suitcase.,0,10,10,10,10,10.0,0.0
+A broccoli in a suitcase.,2,6,10,10,10,10.0,1.0
+A broccoli in a suitcase.,0,5,10,10,10,10.0,2.0
+A broccoli in a suitcase.,0,10,10,10,10,10.0,3.0
+An orange in a bowl.,1,1,10,8,10,10.0,0.0
+An orange in a bowl.,0,10,6,10,10,10.0,1.0
+An orange in a bowl.,0,4,7,10,10,10.0,2.0
+An orange in a bowl.,2,10,8,8,10,10.0,3.0
+A cow in a tractor.,0,10,10,10,10,10.0,0.0
+A cow in a tractor.,0,10,10,10,10,10.0,1.0
+A cow in a tractor.,0,6,10,0,10,10.0,2.0
+A cow in a tractor.,0,10,10,4,8,10.0,3.0
+A tiger in a car.,0,0,10,10,10,10.0,0.0
+A tiger in a car.,0,10,10,10,10,10.0,1.0
+A tiger in a car.,0,10,0,8,10,10.0,2.0
+A tiger in a car.,0,10,10,10,10,10.0,3.0
+A giraffe in a house.,3,7,10,10,10,10.0,0.0
+A giraffe in a house.,0,8,8,10,10,10.0,1.0
+A giraffe in a house.,8,8,10,0,10,10.0,2.0
+A giraffe in a house.,0,10,10,10,10,10.0,3.0
+A zebra in a refrigerator.,0,0,5,10,10,10.0,0.0
+A zebra in a refrigerator.,0,8,8,8,8,10.0,1.0
+A zebra in a refrigerator.,0,8,0,8,10,10.0,2.0
+A zebra in a refrigerator.,0,2,10,10,10,10.0,3.0
+A cockroach in a backpack.,0,6,8,9,10,10.0,0.0
+A cockroach in a backpack.,1,10,1,8,10,8.0,1.0
+A cockroach in a backpack.,1,2,0,10,10,10.0,2.0
+A cockroach in a backpack.,5,0,10,0,10,10.0,3.0
+A rose in an airplane.,1,10,10,8,10,8.0,0.0
+A rose in an airplane.,0,3,5,0,10,10.0,1.0
+A rose in an airplane.,1,6,10,0,10,10.0,2.0
+A rose in an airplane.,0,10,10,10,10,10.0,3.0
+A laptop in a refrigerator.,1,2,9,8,10,10.0,0.0
+A laptop in a refrigerator.,0,10,10,0,8,10.0,1.0
+A laptop in a refrigerator.,0,9,10,10,10,10.0,2.0
+A laptop in a refrigerator.,0,0,10,10,10,10.0,3.0
+A lawn mower in a truck.,0,9,10,8,10,8.0,0.0
+A lawn mower in a truck.,4,8,10,10,10,10.0,1.0
+A lawn mower in a truck.,2,6,10,0,10,8.0,2.0
+A lawn mower in a truck.,0,5,10,0,5,10.0,3.0
+A cloud in a house.,1,0,8,7,10,10.0,0.0
+A cloud in a house.,6,0,7,7,8,10.0,1.0
+A cloud in a house.,5,6,10,10,8,7.0,2.0
+A cloud in a house.,0,0,0,7,8,8.0,3.0
+A dolphin in a microwave.,0,0,5,10,10,7.0,0.0
+A dolphin in a microwave.,2,8,10,10,10,10.0,1.0
+A dolphin in a microwave.,0,0,0,7,10,10.0,2.0
+A dolphin in a microwave.,0,0,10,7,7,10.0,3.0
+A baby in a tank.,4,9,6,8,10,10.0,0.0
+A baby in a tank.,1,4,1,10,0,10.0,1.0
+A baby in a tank.,0,4,5,6,0,6.0,2.0
+A baby in a tank.,0,5,0,4,10,10.0,3.0
+A chimpanzee in a train.,2,8,8,10,9,10.0,0.0
+A chimpanzee in a train.,0,7,10,5,10,10.0,1.0
+A chimpanzee in a train.,1,8,10,10,10,10.0,2.0
+A chimpanzee in a train.,0,0,5,10,10,10.0,3.0
+A sweet pepper in a tank.,llf,llf,llf,llf,llf,10.0,0.0
+A sweet pepper in a tank.,llf,llf,llf,llf,llf,10.0,1.0
+A sweet pepper in a tank.,llf,llf,llf,llf,llf,8.0,2.0
+A sweet pepper in a tank.,llf,llf,llf,llf,llf,8.0,3.0
+A telephone in a tank.,llf,llf,llf,llf,llf,5.0,0.0
+A telephone in a tank.,llf,llf,llf,llf,llf,8.0,1.0
+A telephone in a tank.,llf,llf,llf,llf,llf,6.0,2.0
+A telephone in a tank.,llf,llf,llf,llf,llf,8.0,3.0
+A telephone in a house.,0,2,0,10,10,10.0,0.0
+A telephone in a house.,2,0,0,10,10,10.0,1.0
+A telephone in a house.,0,2,2,8,10,10.0,2.0
+A telephone in a house.,0,0,0,10,10,10.0,3.0
+A skunk in a truck.,0,5,0,8,8,8.0,0.0
+A skunk in a truck.,0,10,2,10,10,10.0,1.0
+A skunk in a truck.,0,1,0,0,10,10.0,2.0
+A skunk in a truck.,0,4,7,0,10,10.0,3.0
+A toothbrush in a car.,3,10,10,10,10,10.0,0.0
+A toothbrush in a car.,2,10,0,10,10,10.0,1.0
+A toothbrush in a car.,0,0,1,10,10,10.0,2.0
+A toothbrush in a car.,2,10,10,10,0,10.0,3.0
+A donut in a backpack.,0,0,10,10,9,8.0,0.0
+A donut in a backpack.,0,6,0,10,6,10.0,1.0
+A donut in a backpack.,5,8,7,0,8,10.0,2.0
+A donut in a backpack.,1,0,10,10,10,10.0,3.0
+A sunflower in a refrigerator.,0,8,10,10,10,10.0,0.0
+A sunflower in a refrigerator.,0,0,8,10,10,10.0,1.0
+A sunflower in a refrigerator.,4,7,7,8,10,10.0,2.0
+A sunflower in a refrigerator.,0,0,8,10,10,10.0,3.0
+A hair drier in a bowl.,llf,llf,llf,llf,llf,10.0,0.0
+A hair drier in a bowl.,llf,llf,llf,llf,llf,10.0,1.0
+A hair drier in a bowl.,llf,llf,llf,llf,llf,10.0,2.0
+A hair drier in a bowl.,llf,llf,llf,llf,llf,8.0,3.0
+A shark in a bus.,5,0,0,8,3,7.0,0.0
+A shark in a bus.,0,4,0,8,8,8.0,1.0
+A shark in a bus.,0,8,0,0,0,8.0,2.0
+A shark in a bus.,0,2,0,0,8,10.0,3.0
+A shrew in a bus.,0,2,0,0,10,4.0,0.0
+A shrew in a bus.,0,1,0,0,10,10.0,1.0
+A shrew in a bus.,0,0,0,0,10,7.0,2.0
+A shrew in a bus.,0,1,0,0,0,7.0,3.0
+A stop sign in a train.,1,0,7,0,0,10.0,0.0
+A stop sign in a train.,0,0,7,0,0,5.0,1.0
+A stop sign in a train.,0,10,0,0,2,7.0,2.0
+A stop sign in a train.,0,0,0,0,10,10.0,3.0
+A vase in a tank.,llf,llf,llf,llf,llf,10.0,0.0
+A vase in a tank.,llf,llf,llf,llf,llf,10.0,1.0
+A vase in a tank.,llf,llf,llf,llf,llf,1.0,2.0
+A vase in a tank.,llf,llf,llf,llf,llf,10.0,3.0
+A snake in an oven.,0,0,0,0,10,10.0,0.0
+A snake in an oven.,0,0,0,10,10,10.0,1.0
+A snake in an oven.,2,0,0,0,10,10.0,2.0
+A snake in an oven.,0,0,10,10,10,10.0,3.0
+A cup in a suitcase.,5,3,0,9,1,10.0,0.0
+A cup in a suitcase.,0,0,5,0,0,10.0,1.0
+A cup in a suitcase.,1,8,10,8,0,0.0,2.0
+A cup in a suitcase.,0,7,0,10,10,10.0,3.0
+A hair drier in a bag.,0,0,5,8,10,7.0,0.0
+A hair drier in a bag.,0,0,10,10,8,10.0,1.0
+A hair drier in a bag.,0,6,10,0,10,10.0,2.0
+A hair drier in a bag.,0,5,10,0,10,10.0,3.0
+A leopard in a car.,0,8,10,10,8,10.0,0.0
+A leopard in a car.,0,5,8,10,10,10.0,1.0
+A leopard in a car.,0,8,8,10,10,10.0,2.0
+A leopard in a car.,0,10,9,10,10,10.0,3.0
+A baseball glove in an oven.,0,8,10,0,10,10.0,0.0
+A baseball glove in an oven.,0,5,6,1,10,10.0,1.0
+A baseball glove in an oven.,5,10,6,10,10,10.0,2.0
+A baseball glove in an oven.,8,0,10,10,8,10.0,3.0
+An orange in a truck.,1,0,10,1,10,7.0,0.0
+An orange in a truck.,4,4,0,10,8,10.0,1.0
+An orange in a truck.,0,2,10,0,5,7.0,2.0
+An orange in a truck.,0,0,10,0,6,10.0,3.0
+A bee in a tractor.,0,7,10,10,0,10.0,0.0
+A bee in a tractor.,1,10,10,0,10,6.0,1.0
+A bee in a tractor.,2,10,5,10,10,2.0,2.0
+A bee in a tractor.,2,8,10,10,10,10.0,3.0
+A rose in a suitcase.,0,7,10,8,10,9.0,0.0
+A rose in a suitcase.,4,4,8,10,10,9.0,1.0
+A rose in a suitcase.,0,7,7,0,10,10.0,2.0
+A rose in a suitcase.,1,8,0,10,10,10.0,3.0
+A wolf in a tank.,0,10,8,10,0,9.0,0.0
+A wolf in a tank.,0,8,10,10,10,10.0,1.0
+A wolf in a tank.,0,7,8,10,7,8.0,2.0
+A wolf in a tank.,0,7,10,0,10,10.0,3.0
+A hair drier in a house.,0,5,0,7,10,10.0,0.0
+A hair drier in a house.,1,2,4,0,10,10.0,1.0
+A hair drier in a house.,0,4,0,10,10,8.0,2.0
+A hair drier in a house.,1,0,0,0,8,10.0,3.0
+A tie in a car.,0,5,0,10,10,10.0,0.0
+A tie in a car.,5,0,6,10,10,10.0,1.0
+A tie in a car.,0,1,0,10,0,10.0,2.0
+A tie in a car.,4,0,10,7,5,10.0,3.0
+A wolf in a tractor.,0,7,9,8,10,9.0,0.0
+A wolf in a tractor.,2,0,10,10,7,8.0,1.0
+A wolf in a tractor.,0,7,0,0,8,9.0,2.0
+A wolf in a tractor.,0,10,10,0,10,10.0,3.0
+A carrot in an oven.,0,10,10,3,10,10.0,0.0
+A carrot in an oven.,0,0,5,10,10,10.0,1.0
+A carrot in an oven.,0,7,0,10,10,10.0,2.0
+A carrot in an oven.,0,0,10,10,10,10.0,3.0
+An umbrella in a car.,10,10,10,0,10,10.0,0.0
+An umbrella in a car.,5,10,10,5,10,10.0,1.0
+An umbrella in a car.,5,10,10,10,0,10.0,2.0
+An umbrella in a car.,0,5,10,10,10,8.0,3.0
+A snake in a bowl.,0,0,10,10,10,10.0,0.0
+A snake in a bowl.,0,1,10,0,10,0.0,1.0
+A snake in a bowl.,2,5,0,10,10,10.0,2.0
+A snake in a bowl.,0,0,10,10,10,10.0,3.0
+A porcupine in a bag.,0,0,0,10,10,7.0,0.0
+A porcupine in a bag.,0,0,2,7,10,10.0,1.0
+A porcupine in a bag.,0,2,0,10,8,10.0,2.0
+A porcupine in a bag.,0,0,10,10,10,8.0,3.0

@@ -1,0 +1,317 @@
+prompt,0,4,8,12,16,20,24,seed
+An orange suitcase and a pink orchid.,10,7,10,10,0,10,10,0
+An orange suitcase and a pink orchid.,10,6,9,10,7,10,7,1
+An orange suitcase and a pink orchid.,10,8,10,10,10,7,6,2
+An orange suitcase and a pink orchid.,10,6,10,10,10,10,7,3
+A purple bag and an orange snail.,10,8,10,10,10,10,10,0
+A purple bag and an orange snail.,10,6,10,10,10,10,10,1
+A purple bag and an orange snail.,10,10,10,10,10,10,10,2
+A purple bag and an orange snail.,10,10,10,10,10,10,10,3
+An orange baseball bat and a brown snake.,3,10,0,1,3,1,0,0
+An orange baseball bat and a brown snake.,1,0,0,8,1,8,7,1
+An orange baseball bat and a brown snake.,6,6,7,7,4,0,6,2
+An orange baseball bat and a brown snake.,10,7,10,10,7,7,7,3
+A white leopard and a red castle.,10,8,10,6,10,10,7,0
+A white leopard and a red castle.,10,8,10,8,10,8,10,1
+A white leopard and a red castle.,10,10,10,9,10,7,10,2
+A white leopard and a red castle.,8,7,10,7,7,8,9,3
+A blue skyscraper and a yellow sports ball.,10,10,10,0,10,10,10,0
+A blue skyscraper and a yellow sports ball.,0,7,9,10,7,10,10,1
+A blue skyscraper and a yellow sports ball.,10,6,10,10,10,10,10,2
+A blue skyscraper and a yellow sports ball.,10,7,10,10,10,10,10,3
+A yellow maple tree and a white sheep.,10,7,10,4,8,10,10,0
+A yellow maple tree and a white sheep.,7,7,7,10,8,10,10,1
+A yellow maple tree and a white sheep.,10,8,8,10,7,10,10,2
+A yellow maple tree and a white sheep.,10,10,10,10,7,10,10,3
+A pink bench and an orange toaster.,0,10,0,7,10,0,10,0
+A pink bench and an orange toaster.,0,4,1,2,1,7,10,1
+A pink bench and an orange toaster.,0,5,10,0,5,0,10,2
+A pink bench and an orange toaster.,0,10,7,7,5,10,10,3
+A black bird and a green bear.,10,8,10,7,7,1,10,0
+A black bird and a green bear.,5,10,10,10,7,4,10,1
+A black bird and a green bear.,10,7,10,10,4,10,8,2
+A black bird and a green bear.,10,7,10,8,10,10,10,3
+A brown pizza and an orange bottle.,10,8,9,9,7,5,8,0
+A brown pizza and an orange bottle.,10,7,10,7,8,8,4,1
+A brown pizza and an orange bottle.,10,5,10,6,7,8,10,2
+A brown pizza and an orange bottle.,10,7,10,10,10,10,7,3
+A black forest and a purple bus.,2,7,10,10,10,10,10,0
+A black forest and a purple bus.,10,8,10,10,7,10,10,1
+A black forest and a purple bus.,10,7,9,9,8,8,10,2
+A black forest and a purple bus.,8,10,10,10,8,8,10,3
+A green porcupine and a black surfboard.,1,8,10,10,10,10,7,0
+A green porcupine and a black surfboard.,10,7,9,10,10,10,10,1
+A green porcupine and a black surfboard.,7,10,10,7,10,10,10,2
+A green porcupine and a black surfboard.,7,5,10,8,7,5,7,3
+A yellow wolf and a black teddy bear.,8,8,0,10,7,7,8,0
+A yellow wolf and a black teddy bear.,10,7,5,7,10,10,7,1
+A yellow wolf and a black teddy bear.,7,8,10,10,10,10,10,2
+A yellow wolf and a black teddy bear.,10,10,7,8,1,8,10,3
+An orange maple tree and a purple vase.,10,7,10,8,10,10,7,0
+An orange maple tree and a purple vase.,10,8,10,10,8,10,10,1
+An orange maple tree and a purple vase.,10,5,8,8,10,10,10,2
+An orange maple tree and a purple vase.,10,10,10,10,8,10,8,3
+A blue table and a pink couch.,10,10,7,10,10,10,10,0
+A blue table and a pink couch.,10,8,7,10,10,10,10,1
+A blue table and a pink couch.,10,7,10,10,10,10,10,2
+A blue table and a pink couch.,10,6,10,10,5,10,0,3
+A red oak tree and a green car.,10,6,1,1,10,7,10,0
+A red oak tree and a green car.,10,10,7,6,10,10,10,1
+A red oak tree and a green car.,10,8,10,1,9,7,10,2
+A red oak tree and a green car.,0,10,8,8,1,6,10,3
+A green cat and a blue rocket.,10,10,6,8,6,10,10,0
+A green cat and a blue rocket.,10,8,10,10,10,10,10,1
+A green cat and a blue rocket.,10,10,10,10,9,10,10,2
+A green cat and a blue rocket.,10,7,7,10,10,7,10,3
+A red forest and a white skateboard.,10,8,10,6,10,10,7,0
+A red forest and a white skateboard.,Error,7,10,10,7,10,10,1
+A red forest and a white skateboard.,10,7,10,10,10,10,10,2
+A red forest and a white skateboard.,10,10,10,10,1,1,10,3
+An orange giraffe and a blue castle.,10,10,10,8,10,7,10,0
+An orange giraffe and a blue castle.,10,8,10,8,9,7,10,1
+An orange giraffe and a blue castle.,10,10,10,10,10,6,10,2
+An orange giraffe and a blue castle.,10,10,10,10,8,7,10,3
+A purple bear and an orange plate.,10,10,10,2,10,10,10,0
+A purple bear and an orange plate.,10,10,0,10,10,10,10,1
+A purple bear and an orange plate.,10,8,10,10,2,7,10,2
+A purple bear and an orange plate.,10,8,10,0,10,10,2,3
+A blue banana and a red sink.,10,10,10,10,10,10,10,0
+A blue banana and a red sink.,10,10,10,10,8,8,10,1
+A blue banana and a red sink.,10,10,10,6,10,0,7,2
+A blue banana and a red sink.,0,10,10,6,10,10,10,3
+A yellow boat and a white bear.,4,7,8,5,10,10,10,0
+A yellow boat and a white bear.,8,6,8,7,10,10,10,1
+A yellow boat and a white bear.,10,10,3,5,8,10,7,2
+A yellow boat and a white bear.,10,4,10,8,10,10,10,3
+A red snake and a yellow fork.,10,7,10,10,0,10,2,0
+A red snake and a yellow fork.,10,7,7,8,0,6,8,1
+A red snake and a yellow fork.,10,5,10,8,0,7,1,2
+A red snake and a yellow fork.,10,8,10,9,3,6,7,3
+A blue toilet and a pink umbrella.,10,7,10,10,5,10,10,0
+A blue toilet and a pink umbrella.,10,7,8,10,10,10,7,1
+A blue toilet and a pink umbrella.,10,10,10,10,10,0,10,2
+A blue toilet and a pink umbrella.,10,10,10,10,7,10,10,3
+A black kite and a red raccoon.,10,7,10,10,7,1,6,0
+A black kite and a red raccoon.,10,7,9,1,6,7,10,1
+A black kite and a red raccoon.,10,10,7,1,0,7,1,2
+A black kite and a red raccoon.,10,10,10,8,6,2,1,3
+A green oak tree and a white giraffe.,8,5,6,7,8,10,8,0
+A green oak tree and a white giraffe.,8,10,7,10,8,8,10,1
+A green oak tree and a white giraffe.,10,6,1,8,10,10,7,2
+A green oak tree and a white giraffe.,10,8,7,7,10,10,10,3
+A green fork and a yellow boy.,10,8,10,10,6,5,10,0
+A green fork and a yellow boy.,10,8,10,10,8,5,10,1
+A green fork and a yellow boy.,10,7,8,10,7,6,10,2
+A green fork and a yellow boy.,10,7,10,8,8,10,10,3
+A green sea and a purple bottle.,0,"7, 10, 0, 1, ",10,8,4,10,0,0
+A green sea and a purple bottle.,10,7,9,7,7,2,10,1
+A green sea and a purple bottle.,8,7,8,6,7,1,1,2
+A green sea and a purple bottle.,10,9,10,10,7,0,1,3
+A blue hot dog and a white leopard.,10,10,10,10,10,8,10,0
+A blue hot dog and a white leopard.,10,8,10,8,10,10,7,1
+A blue hot dog and a white leopard.,10,10,7,5,10,8,8,2
+A blue hot dog and a white leopard.,10,10,10,8,8,5,10,3
+A green bench and a brown tie.,0,0,10,6,7,2,7,0
+A green bench and a brown tie.,0,0,10,10,3,1,0,1
+A green bench and a brown tie.,0,0,0,7,10,0,7,2
+A green bench and a brown tie.,0,0,0,5,10,3,5,3
+A pink raccoon and a blue rocket.,10,5,5,10,10,6,10,0
+A pink raccoon and a blue rocket.,10,10,8,10,10,7,7,1
+A pink raccoon and a blue rocket.,10,10,10,10,8,10,7,2
+A pink raccoon and a blue rocket.,8,6,10,10,10,7,8,3
+A yellow otter and a blue flatfish.,10,10,8,8,10,10,8,0
+A yellow otter and a blue flatfish.,10,8,10,1,10,10,10,1
+A yellow otter and a blue flatfish.,10,10,10,8,10,10,9,2
+A yellow otter and a blue flatfish.,10,7,10,8,10,7,10,3
+A black cell phone and a yellow sea.,10,7,10,10,10,10,10,0
+A black cell phone and a yellow sea.,0,10,8,10,10,8,10,1
+A black cell phone and a yellow sea.,0,10,8,10,3,10,10,2
+A black cell phone and a yellow sea.,10,10,8,8,6,10,10,3
+A blue chimpanzee and a green seal.,0,1,0,10,0,0,10,0
+A blue chimpanzee and a green seal.,0,1,0,8,7,1,7,1
+A blue chimpanzee and a green seal.,0,10,10,10,8,10,8,2
+A blue chimpanzee and a green seal.,0,1,10,10,10,1,7,3
+A purple boy and a white bed.,10,3,9,10,10,10,10,0
+A purple boy and a white bed.,10,7,10,7,10,10,10,1
+A purple boy and a white bed.,10,7,8,10,10,10,7,2
+A purple boy and a white bed.,10,10,10,8,10,10,10,3
+A yellow camel and an orange plate.,10,7,10,8,7,10,7,0
+A yellow camel and an orange plate.,10,7,7,10,8,10,8,1
+A yellow camel and an orange plate.,10,7,10,10,10,7,10,2
+A yellow camel and an orange plate.,10,7,10,7,1,10,7,3
+A brown stop sign and a pink oven.,10,7,10,10,10,10,10,0
+A brown stop sign and a pink oven.,10,8,10,10,0,0,10,1
+A brown stop sign and a pink oven.,7,8,7,10,10,0,7,2
+A brown stop sign and a pink oven.,10,1,10,10,8,1,8,3
+An orange tractor and a red orange.,5,0,5,1,5,5,5,0
+An orange tractor and a red orange.,0,8,6,1,2,2,1,1
+An orange tractor and a red orange.,0,6,1,4,7,0,3,2
+An orange tractor and a red orange.,5,5,8,0,1,3,2,3
+A brown toothbrush and a pink sunflower.,10,10,10,9,10,10,1,0
+A brown toothbrush and a pink sunflower.,8,10,10,10,10,10,3,1
+A brown toothbrush and a pink sunflower.,10,7,10,10,10,1,4,2
+A brown toothbrush and a pink sunflower.,10,10,10,10,10,10,8,3
+A white lizard and an orange kangaroo.,0,8,10,10,Error,0,7,0
+A white lizard and an orange kangaroo.,0,7,10,5,2,6,10,1
+A white lizard and an orange kangaroo.,0,10,10,10,0,10,10,2
+A white lizard and an orange kangaroo.,0,7,8,8,1,10,1,3
+A black snowboard and a white can.,10,6,7,10,9,10,10,0
+A black snowboard and a white can.,10,7,10,10,10,7,10,1
+A black snowboard and a white can.,8,8,10,10,10,10,10,2
+A black snowboard and a white can.,10,2,10,10,7,10,10,3
+A black snowboard and a pink lamp.,8,7,10,10,10,10,10,0
+A black snowboard and a pink lamp.,10,7,10,10,10,10,10,1
+A black snowboard and a pink lamp.,10,8,10,8,10,10,10,2
+A black snowboard and a pink lamp.,10,8,7,10,10,10,10,3
+A red refrigerator and a purple elephant.,1,10,7,5,10,10,10,0
+A red refrigerator and a purple elephant.,0,10,10,10,5,8,10,1
+A red refrigerator and a purple elephant.,0,7,10,6,5,10,8,2
+A red refrigerator and a purple elephant.,0,1,10,10,10,10,10,3
+A white giraffe and a pink tulip.,8,8,10,6,9,10,7,0
+A white giraffe and a pink tulip.,8,8,10,8,8,6,8,1
+A white giraffe and a pink tulip.,9,8,10,10,10,7,7,2
+A white giraffe and a pink tulip.,10,8,10,10,5,8,10,3
+A brown possum and a blue parking meter.,9,5,10,10,10,10,10,0
+A brown possum and a blue parking meter.,10,7,8,7,10,10,8,1
+A brown possum and a blue parking meter.,10,10,10,4,8,10,10,2
+A brown possum and a blue parking meter.,10,5,10,8,10,7,10,3
+A red lamp and a pink crab.,1,5,7,6,10,10,7,0
+A red lamp and a pink crab.,Error,10,4,1,7,2,0,1
+A red lamp and a pink crab.,10,6,7,7,1,8,0,2
+A red lamp and a pink crab.,7,8,10,7,1,1,4,3
+An orange dinosaur and a yellow pear.,3,6,10,7,1,10,10,0
+An orange dinosaur and a yellow pear.,0,7,10,10,10,10,10,1
+An orange dinosaur and a yellow pear.,0,10,5,10,1,8,10,2
+An orange dinosaur and a yellow pear.,7,8,10,7,4,7,10,3
+A white house and a brown mountain.,0,5,10,8,8,10,7,0
+A white house and a brown mountain.,1,4,8,8,7,4,10,1
+A white house and a brown mountain.,5,0,7,10,10,2,7,2
+A white house and a brown mountain.,7,2,10,10,10,10,2,3
+A white sweet pepper and a green orchid.,llf,llf,llf,llf,llf,llf,7,0
+A white sweet pepper and a green orchid.,llf,llf,llf,llf,llf,llf,10,1
+A white sweet pepper and a green orchid.,llf,llf,llf,llf,llf,llf,10,2
+A white sweet pepper and a green orchid.,llf,llf,llf,llf,llf,llf,10,3
+A pink orchid and a blue beaver.,10,10,7,10,7,0,10,0
+A pink orchid and a blue beaver.,10,10,10,1,1,0,10,1
+A pink orchid and a blue beaver.,10,7,10,10,10,8,8,2
+A pink orchid and a blue beaver.,10,8,7,9,10,0,10,3
+An orange plate and a green sunflower.,8,5,6,1,1,0,10,0
+An orange plate and a green sunflower.,10,6,1,1,1,1,4,1
+An orange plate and a green sunflower.,10,6,8,3,1,0,0,2
+An orange plate and a green sunflower.,8,7,10,7,1,1,10,3
+A blue toothbrush and a brown worm.,0,6,"10, 5, 0, 0, ",3,1,7,7,0
+A blue toothbrush and a brown worm.,0,10,6,10,1,10,7,1
+A blue toothbrush and a brown worm.,0,5,0,7,1,0,10,2
+A blue toothbrush and a brown worm.,0,4,10,8,10,10,7,3
+A pink frisbee and a green poppy.,9,6,0,7,2,3,7,0
+A pink frisbee and a green poppy.,10,7,0,7,7,10,7,1
+A pink frisbee and a green poppy.,3,10,5,3,1,8,10,2
+A pink frisbee and a green poppy.,4,2,10,7,0,10,10,3
+A yellow bridge and a red shark.,0,7,1,7,10,1,7,0
+A yellow bridge and a red shark.,10,9,8,8,10,0,6,1
+A yellow bridge and a red shark.,10,6,1,6,9,0,5,2
+A yellow bridge and a red shark.,10,7,10,6,7,5,10,3
+A white sea and a green forest.,7,7,5,6,8,0,8,0
+A white sea and a green forest.,10,8,7,7,8,8,9,1
+A white sea and a green forest.,0,6,10,7,10,10,8,2
+A white sea and a green forest.,7,10,10,7,7,10,10,3
+A pink pickup truck and a red poppy.,8,5,7,0,7,10,7,0
+A pink pickup truck and a red poppy.,10,10,0,2,1,4,2,1
+A pink pickup truck and a red poppy.,10,1,7,10,10,3,0,2
+A pink pickup truck and a red poppy.,8,7,8,4,7,1,9,3
+A green skunk and a red camel.,10,7,Error,7,10,1,1,0
+A green skunk and a red camel.,10,10,10,10,8,0,4,1
+A green skunk and a red camel.,10,6,10,Error,5,0,8,2
+A green skunk and a red camel.,10,8,10,10,10,0,2,3
+A blue raccoon and a black cup.,10,10,10,10,10,1,10,0
+A blue raccoon and a black cup.,5,10,1,10,6,10,7,1
+A blue raccoon and a black cup.,10,10,10,8,10,10,10,2
+A blue raccoon and a black cup.,10,7,1,7,10,7,10,3
+A brown keyboard and an orange airplane.,10,8,1,10,10,8,7,0
+A brown keyboard and an orange airplane.,10,7,6,8,6,8,7,1
+A brown keyboard and an orange airplane.,9,6,8,10,8,10,7,2
+A brown keyboard and an orange airplane.,10,6,8,7,7,8,10,3
+A blue banana and an orange carrot.,0,10,10,7,0,10,10,0
+A blue banana and an orange carrot.,10,10,10,8,10,10,8,1
+A blue banana and an orange carrot.,0,10,10,0,7,10,10,2
+A blue banana and an orange carrot.,0,10,7,7,7,0,10,3
+A purple television and a white baseball glove.,10,10,6,4,1,10,10,0
+A purple television and a white baseball glove.,10,7,7,5,8,10,10,1
+A purple television and a white baseball glove.,10,8,7,7,10,10,10,2
+A purple television and a white baseball glove.,8,7,8,4,0,10,10,3
+A green backpack and an orange table.,2,5,10,8,10,10,10,0
+A green backpack and an orange table.,10,6,10,7,10,2,10,1
+A green backpack and an orange table.,10,7,10,8,10,10,10,2
+A green backpack and an orange table.,10,7,10,10,7,7,10,3
+A black toilet and a brown knife.,0,0,6,1,10,7,5,0
+A black toilet and a brown knife.,1,5,7,10,1,1,8,1
+A black toilet and a brown knife.,1,5,7,0,10,0,5,2
+A black toilet and a brown knife.,5,10,10,0,1,1,7,3
+A black zebra and a pink airplane.,10,10,10,10,10,10,10,0
+A black zebra and a pink airplane.,10,8,10,10,10,10,10,1
+A black zebra and a pink airplane.,10,10,10,10,0,1,5,2
+A black zebra and a pink airplane.,10,7,10,10,8,10,7,3
+A blue bottle and an orange horse.,0,10,10,8,10,7,10,0
+A blue bottle and an orange horse.,0,10,10,7,10,10,10,1
+A blue bottle and an orange horse.,0,10,10,10,10,10,8,2
+A blue bottle and an orange horse.,1,10,10,1,1,10,10,3
+A green baseball bat and a yellow sunflower.,10,10,8,7,10,10,8,0
+A green baseball bat and a yellow sunflower.,10,10,10,10,8,10,10,1
+A green baseball bat and a yellow sunflower.,8,7,10,10,10,10,10,2
+A green baseball bat and a yellow sunflower.,10,10,10,8,8,8,9,3
+A red porcupine and a yellow whale.,10,8,10,10,0,10,10,0
+A red porcupine and a yellow whale.,0,10,7,0,7,8,4,1
+A red porcupine and a yellow whale.,10,8,10,10,10,0,10,2
+A red porcupine and a yellow whale.,0,8,10,9,10,10,10,3
+A purple parking meter and a white man.,10,7,4,1,10,10,10,0
+A purple parking meter and a white man.,10,7,10,5,10,8,10,1
+A purple parking meter and a white man.,10,10,8,0,7,10,7,2
+A purple parking meter and a white man.,10,10,10,10,10,7,6,3
+A red fish and a brown tulip.,0,2,2,1,7,5,7,0
+A red fish and a brown tulip.,0,6,1,6,0,5,0,1
+A red fish and a brown tulip.,0,10,4,1,0,0,5,2
+A red fish and a brown tulip.,1,10,8,1,1,0,7,3
+A purple umbrella and a yellow toaster.,10,7,7,10,8,10,10,0
+A purple umbrella and a yellow toaster.,10,10,10,10,8,10,10,1
+A purple umbrella and a yellow toaster.,10,5,10,10,10,10,10,2
+A purple umbrella and a yellow toaster.,10,10,10,10,10,10,10,3
+An orange elephant and a green baseball bat.,10,7,1,1,0,0,10,0
+An orange elephant and a green baseball bat.,10,10,3,0,7,1,7,1
+An orange elephant and a green baseball bat.,10,10,9,10,2,10,10,2
+An orange elephant and a green baseball bat.,Error,7,5,5,10,10,10,3
+A green banana and a brown kangaroo.,2,7,10,1,10,0,10,0
+A green banana and a brown kangaroo.,0,5,6,5,8,7,10,1
+A green banana and a brown kangaroo.,0,7,5,7,3,7,8,2
+A green banana and a brown kangaroo.,0,6,5,3,0,10,5,3
+A yellow fish and a brown whale.,0,1,3,2,1,6,0,0
+A yellow fish and a brown whale.,1,10,0,1,1,1,4,1
+A yellow fish and a brown whale.,0,10,0,1,0,1,0,2
+A yellow fish and a brown whale.,7,2,0,1,0,0,0,3
+A green caterpillar and a black lawn mower.,3,7,8,8,6,10,8,0
+A green caterpillar and a black lawn mower.,10,7,9,8,10,10,10,1
+A green caterpillar and a black lawn mower.,4,6,8,5,10,7,10,2
+A green caterpillar and a black lawn mower.,10,7,7,10,8,10,10,3
+A purple poppy and a green beetle.,10,10,10,7,4,8,10,0
+A purple poppy and a green beetle.,10,8,10,8,10,10,8,1
+A purple poppy and a green beetle.,10,7,8,8,10,10,10,2
+A purple poppy and a green beetle.,2,10,10,10,10,8,7,3
+A red forest and a purple skateboard.,0,8,7,2,6,10,10,0
+A red forest and a purple skateboard.,1,7,10,6,7,4,10,1
+A red forest and a purple skateboard.,3,10,10,5,6,7,7,2
+A red forest and a purple skateboard.,10,10,7,10,7,7,10,3
+A pink snail and an orange donut.,10,10,8,8,10,10,10,0
+A pink snail and an orange donut.,0,7,10,7,0,8,8,1
+A pink snail and an orange donut.,10,9,10,10,10,2,0,2
+A pink snail and an orange donut.,0,8,10,10,7,5,8,3
+A black shark and a purple crocodile.,2,8,10,8,2,0,8,0
+A black shark and a purple crocodile.,10,6,10,8,7,0,10,1
+A black shark and a purple crocodile.,0,10,7,1,2,0,6,2
+A black shark and a purple crocodile.,6,10,10,0,8,10,10,3
+A yellow turtle and a brown shark.,0,1,0,6,3,1,5,0
+A yellow turtle and a brown shark.,0,7,7,5,2,0,2,1
+A yellow turtle and a brown shark.,1,0,1,4,7,2,5,2
+A yellow turtle and a brown shark.,7,3,2,1,10,6,5,3
+A brown fire hydrant and a purple raccoon.,0,10,10,10,0,7,1,0
+A brown fire hydrant and a purple raccoon.,7,10,10,0,6,0,9,1
+A brown fire hydrant and a purple raccoon.,8,10,8,5,2,0,2,2
+A brown fire hydrant and a purple raccoon.,7,10,10,7,0,1,10,3

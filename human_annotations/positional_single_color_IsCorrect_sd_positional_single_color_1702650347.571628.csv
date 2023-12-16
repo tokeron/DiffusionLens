@@ -1,0 +1,153 @@
+prompt,3,7,11,15,19,23,seed
+A blue umbrella.,0,0,1,0,1,0,0
+A blue umbrella.,0,0,1,0,0,0,1
+A blue umbrella.,0,0,0,1,0,1,2
+A blue umbrella.,0,0,1,1,1,1,3
+A brown horse.,0,1,0,0,1,1,0
+A brown horse.,0,1,0,1,1,1,1
+A brown horse.,0,0,0,0,1,1,2
+A brown horse.,0,0,0,1,1,1,3
+A pink sea.,0,0,0,0,1,1,0
+A pink sea.,0,0,0,0,0,1,1
+A pink sea.,0,0,0,0,0,1,2
+A pink sea.,0,0,0,0,0,1,3
+A red mouse.,0,0,0,0,0,0,0
+A red mouse.,0,0,0,0,0,0,1
+A red mouse.,0,0,0,0,0,0,2
+A red mouse.,0,0,0,0,0,0,3
+A green television.,0,0,0,0,1,0,0
+A green television.,0,0,0,1,0,1,1
+A green television.,0,0,0,1,1,1,2
+A green television.,0,0,0,0,0,1,3
+A yellow baby.,0,0,0,0,0,1,0
+A yellow baby.,0,0,0,0,0,0,1
+A yellow baby.,0,0,0,0,0,1,2
+A yellow baby.,0,0,0,0,0,1,3
+A pink remote.,0,0,1,0,1,1,0
+A pink remote.,0,0,1,1,1,1,1
+A pink remote.,0,0,0,1,0,0,2
+A pink remote.,0,0,0,1,1,1,3
+A brown rabbit.,0,1,0,1,1,1,0
+A brown rabbit.,0,1,1,1,1,1,1
+A brown rabbit.,0,1,0,0,1,1,2
+A brown rabbit.,0,0,1,1,1,1,3
+A yellow tulip.,0,0,1,1,0,1,0
+A yellow tulip.,1,0,0,1,0,1,1
+A yellow tulip.,0,0,0,1,0,1,2
+A yellow tulip.,0,0,1,0,1,1,3
+A pink clock.,0,0,0,0,1,1,0
+A pink clock.,0,0,1,0,1,1,1
+A pink clock.,0,0,1,1,1,1,2
+A pink clock.,0,0,0,0,1,1,3
+A red beaver.,0,0,0,0,0,1,0
+A red beaver.,0,0,0,0,0,0,1
+A red beaver.,0,0,0,0,0,1,2
+A red beaver.,0,0,0,0,0,1,3
+A white mushroom.,0,0,1,1,1,1,0
+A white mushroom.,0,0,1,1,0,1,1
+A white mushroom.,0,0,1,1,0,1,2
+A white mushroom.,0,0,0,0,0,1,3
+An orange oak tree.,0,0,0,0,0,0,0
+An orange oak tree.,0,0,0,0,0,1,1
+An orange oak tree.,0,0,0,0,0,1,2
+An orange oak tree.,0,0,0,1,0,1,3
+A yellow chair.,0,0,0,0,0,1,0
+A yellow chair.,0,0,0,0,0,1,1
+A yellow chair.,0,0,0,0,0,1,2
+A yellow chair.,0,0,0,0,0,1,3
+A green lobster.,0,0,1,1,1,1,0
+A green lobster.,0,0,1,1,1,1,1
+A green lobster.,0,1,0,1,1,1,2
+A green lobster.,0,1,1,1,1,1,3
+A white bear.,1,0,1,1,1,1,0
+A white bear.,1,0,1,1,1,1,1
+A white bear.,0,1,1,1,1,1,2
+A white bear.,0,1,0,1,1,1,3
+A purple snake.,0,0,0,0,1,1,0
+A purple snake.,0,0,1,0,0,1,1
+A purple snake.,0,0,0,0,0,1,2
+A purple snake.,0,0,0,1,0,1,3
+A pink cup.,0,0,1,1,1,1,0
+A pink cup.,0,0,0,0,0,1,1
+A pink cup.,0,0,0,0,0,1,2
+A pink cup.,0,0,0,0,0,1,3
+A red palm tree.,0,0,0,0,0,1,0
+A red palm tree.,0,0,0,0,0,1,1
+A red palm tree.,0,0,0,0,0,1,2
+A red palm tree.,0,0,0,1,0,1,3
+A brown car.,0,0,1,1,0,1,0
+A brown car.,0,0,0,0,0,1,1
+A brown car.,0,0,0,0,0,1,2
+A brown car.,0,0,0,0,0,1,3
+A white broccoli.,0,0,0,0,0,0,0
+A white broccoli.,0,0,0,0,0,0,1
+A white broccoli.,0,0,0,0,0,0,2
+A white broccoli.,0,0,0,0,0,0,3
+A pink cloud.,0,0,0,1,1,1,0
+A pink cloud.,0,0,0,0,1,1,1
+A pink cloud.,0,0,0,0,1,1,2
+A pink cloud.,0,0,0,1,1,1,3
+A pink knife.,0,0,0,0,0,1,0
+A pink knife.,0,0,0,0,1,1,1
+A pink knife.,0,1,0,0,0,1,2
+A pink knife.,0,0,0,1,0,1,3
+A green fox.,0,1,1,1,1,1,0
+A green fox.,0,0,1,1,1,1,1
+A green fox.,0,0,0,1,1,1,2
+A green fox.,0,1,1,1,1,1,3
+A yellow whale.,0,0,0,0,0,1,0
+A yellow whale.,0,0,0,0,0,1,1
+A yellow whale.,0,0,0,0,0,1,2
+A yellow whale.,0,0,0,0,0,1,3
+A green snail.,0,0,0,0,0,1,0
+A green snail.,0,0,0,0,0,1,1
+A green snail.,0,0,0,0,0,1,2
+A green snail.,0,0,0,0,0,1,3
+A green fire hydrant.,0,0,0,0,1,1,0
+A green fire hydrant.,0,0,0,0,1,1,1
+A green fire hydrant.,0,0,1,0,0,1,2
+A green fire hydrant.,0,0,0,0,0,1,3
+An orange hamster.,0,0,1,0,0,1,0
+An orange hamster.,0,0,0,0,1,1,1
+An orange hamster.,0,0,0,0,0,1,2
+An orange hamster.,0,0,0,1,0,1,3
+A purple forest.,0,0,0,0,1,1,0
+A purple forest.,0,0,0,1,0,1,1
+A purple forest.,0,0,0,0,0,1,2
+A purple forest.,0,0,0,1,0,1,3
+A purple road.,0,0,0,0,0,1,0
+A purple road.,0,0,0,1,0,1,1
+A purple road.,0,0,0,0,0,1,2
+A purple road.,0,0,0,0,0,1,3
+A green teddy bear.,0,0,0,0,0,1,0
+A green teddy bear.,0,0,0,0,0,1,1
+A green teddy bear.,0,0,0,0,1,1,2
+A green teddy bear.,0,0,0,1,0,1,3
+A blue tractor.,0,0,0,0,0,1,0
+A blue tractor.,0,0,1,0,0,1,1
+A blue tractor.,0,0,1,0,0,1,2
+A blue tractor.,0,0,0,0,1,1,3
+A yellow suitcase.,0,1,0,0,1,1,0
+A yellow suitcase.,0,0,0,0,0,1,1
+A yellow suitcase.,0,0,1,0,1,1,2
+A yellow suitcase.,0,0,0,0,0,1,3
+A yellow dolphin.,0,0,0,0,0,1,0
+A yellow dolphin.,0,0,0,0,0,1,1
+A yellow dolphin.,0,0,0,0,0,1,2
+A yellow dolphin.,0,0,0,0,0,1,3
+A red worm.,0,0,0,1,1,1,0
+A red worm.,0,0,1,1,1,1,1
+A red worm.,0,0,0,0,1,1,2
+A red worm.,0,0,0,1,1,1,3
+A red bowl.,0,0,0,0,0,1,0
+A red bowl.,0,0,1,0,1,1,1
+A red bowl.,0,0,0,0,0,1,2
+A red bowl.,0,1,0,0,1,1,3
+A white bed.,1,1,1,1,1,1,0
+A white bed.,0,0,1,1,1,1,1
+A white bed.,0,1,1,1,1,1,2
+A white bed.,0,1,1,1,1,1,3
+A yellow bed.,0,0,0,0,0,1,0
+A yellow bed.,0,0,0,0,0,1,1
+A yellow bed.,0,0,1,0,1,1,2
+A yellow bed.,0,0,0,1,0,0,3

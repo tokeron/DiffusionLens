@@ -1,0 +1,73 @@
+prompt,0,4,8,12,16,20,24,seed
+A carrot in a bag.,0,0,0,0,0,0,1,0
+A carrot in a bag.,0,0,0,0,0,0,0,1
+A carrot in a bag.,0,0,0,0,0,1,0,2
+A carrot in a bag.,0,0,0,0,0,0,1,3
+A fish in a backpack.,0,0,1,1,1,1,1,0
+A fish in a backpack.,0,1,1,1,1,1,1,1
+A fish in a backpack.,0,1,1,1,1,1,1,2
+A fish in a backpack.,1,0,1,1,0,1,1,3
+A knife in a truck.,0,0,0,0,0,1,1,0
+A knife in a truck.,0,0,0,0,0,1,1,1
+A knife in a truck.,0,0,0,0,1,1,1,2
+A knife in a truck.,0,0,0,1,0,1,1,3
+A parking meter in a microwave.,0,0,0,0,0,0,0,0
+A parking meter in a microwave.,0,0,0,0,0,0,1,1
+A parking meter in a microwave.,0,0,0,0,0,0,0,2
+A parking meter in a microwave.,0,0,0,0,0,0,0,3
+A tennis racket in a train.,0,0,0,0,0,0,1,0
+A tennis racket in a train.,0,0,0,0,0,0,1,1
+A tennis racket in a train.,0,0,0,0,0,0,1,2
+A tennis racket in a train.,0,0,0,0,0,1,0,3
+A dog in a tractor.,0,0,0,0,1,1,1,0
+A dog in a tractor.,0,0,1,0,0,0,1,1
+A dog in a tractor.,0,0,0,0,0,0,1,2
+A dog in a tractor.,0,0,0,0,0,1,1,3
+A bee in a bowl.,0,0,1,0,1,1,1,0
+A bee in a bowl.,0,0,0,0,1,1,1,1
+A bee in a bowl.,0,0,1,0,1,1,1,2
+A bee in a bowl.,0,0,0,0,1,1,1,3
+A vase in a tractor.,0,0,0,0,0,0,0,0
+A vase in a tractor.,0,0,0,0,0,0,0,1
+A vase in a tractor.,0,0,0,0,0,0,0,2
+A vase in a tractor.,0,0,0,0,0,0,0,3
+A can in a bus.,0,0,0,0,0,0,1,0
+A can in a bus.,0,0,0,0,0,0,1,1
+A can in a bus.,0,0,0,0,0,0,1,2
+A can in a bus.,0,0,0,0,0,1,0,3
+A laptop in a bag.,0,0,0,0,0,1,1,0
+A laptop in a bag.,0,0,0,0,0,1,0,1
+A laptop in a bag.,0,0,0,0,1,0,1,2
+A laptop in a bag.,0,0,0,0,0,0,1,3
+A vase in a bag.,0,0,0,0,0,0,1,0
+A vase in a bag.,0,0,0,0,0,1,1,1
+A vase in a bag.,0,0,0,0,1,0,1,2
+A vase in a bag.,0,0,0,1,0,0,1,3
+A skunk in an airplane.,0,0,0,0,0,1,1,0
+A skunk in an airplane.,0,0,0,0,0,0,1,1
+A skunk in an airplane.,0,0,0,0,0,0,1,2
+A skunk in an airplane.,0,0,0,0,0,0,1,3
+A man in an airplane.,0,0,1,1,1,1,1,0
+A man in an airplane.,0,1,0,0,1,1,1,1
+A man in an airplane.,0,0,1,1,0,1,0,2
+A man in an airplane.,0,0,1,1,1,1,1,3
+A bag in an airplane.,0,0,0,0,0,0,0,0
+A bag in an airplane.,0,0,0,0,1,0,1,1
+A bag in an airplane.,0,0,0,0,0,0,1,2
+A bag in an airplane.,0,0,0,0,0,1,0,3
+A caterpillar in a bag.,0,0,0,0,0,1,1,0
+A caterpillar in a bag.,0,0,0,0,1,1,1,1
+A caterpillar in a bag.,0,0,0,,1,,1,2
+A caterpillar in a bag.,0,0,0,,1,,1,3
+A boy in a truck.,0,0,1,0,0,1,1,0
+A boy in a truck.,0,0,0,0,0,1,1,1
+A boy in a truck.,0,0,1,0,1,1,1,2
+A boy in a truck.,0,0,1,1,1,1,1,3
+A sunflower in a bowl.,0,0,0,1,1,1,1,0
+A sunflower in a bowl.,0,0,0,0,0,1,1,1
+A sunflower in a bowl.,0,0,0,0,0,1,1,2
+A sunflower in a bowl.,0,0,0,1,0,0,0,3
+A fish in a bowl.,0,1,1,1,0,1,0,0
+A fish in a bowl.,0,0,1,1,0,1,1,1
+A fish in a bowl.,0,0,0,0,0,1,1,2
+A fish in a bowl.,0,0,0,1,1,1,1,3

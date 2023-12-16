@@ -1,0 +1,73 @@
+prompt,3,7,11,15,19,23,seed
+Simone Biles,0,0,0,0,0,0,0
+Simone Biles,0,0,0,0,1,1,1
+Simone Biles,0,0,0,0,1,0,2
+Simone Biles,0,0,0,1,1,1,3
+Steve Jobs,0,0,0,0,1,0,0
+Steve Jobs,0,0,0,1,1,0,1
+Steve Jobs,0,0,0,0,0,0,2
+Steve Jobs,0,0,0,0,1,1,3
+Albert Einstein,0,0,0,0,1,1,0
+Albert Einstein,0,0,0,0,1,1,1
+Albert Einstein,0,0,0,0,1,1,2
+Albert Einstein,0,0,1,0,0,1,3
+Brad Pitt,0,0,0,0,1,1,0
+Brad Pitt,0,0,0,1,1,1,1
+Brad Pitt,0,0,0,1,1,1,2
+Brad Pitt,0,0,0,0,1,1,3
+Marilyn Monroe,0,0,0,0,0,1,0
+Marilyn Monroe,0,0,0,0,0,1,1
+Marilyn Monroe,0,0,0,0,0,1,2
+Marilyn Monroe,0,0,0,1,0,1,3
+Jennifer Aniston,0,0,0,0,0,0,0
+Jennifer Aniston,0,0,0,0,1,0,1
+Jennifer Aniston,0,0,0,0,0,1,2
+Jennifer Aniston,0,0,0,0,1,0,3
+Angelina Jolie,0,0,0,0,0,1,0
+Angelina Jolie,0,0,0,1,1,1,1
+Angelina Jolie,0,0,1,0,0,0,2
+Angelina Jolie,0,0,0,0,1,1,3
+John F. Kennedy,0,0,0,0,1,0,0
+John F. Kennedy,0,0,0,0,1,1,1
+John F. Kennedy,0,0,0,0,1,1,2
+John F. Kennedy,0,0,0,0,1,1,3
+Leonardo DiCaprio,0,0,0,0,0,1,0
+Leonardo DiCaprio,0,0,0,0,1,1,1
+Leonardo DiCaprio,0,0,0,0,1,0,2
+Leonardo DiCaprio,0,0,0,0,1,1,3
+Tom Hanks,0,0,0,0,0,1,0
+Tom Hanks,0,0,0,0,1,1,1
+Tom Hanks,0,0,0,1,1,1,2
+Tom Hanks,0,0,0,0,1,0,3
+Johnny Depp,0,0,0,0,0,0,0
+Johnny Depp,0,0,0,1,1,1,1
+Johnny Depp,0,0,0,1,0,1,2
+Johnny Depp,0,0,0,0,1,0,3
+Adele,0,0,0,0,0,0,0
+Adele,0,0,0,0,0,0,1
+Adele,0,0,0,0,1,0,2
+Adele,0,0,0,0,0,0,3
+Morgan Freeman,0,0,0,0,1,0,0
+Morgan Freeman,0,0,0,1,0,1,1
+Morgan Freeman,0,0,0,0,1,1,2
+Morgan Freeman,0,0,0,0,0,1,3
+Emma Watson,0,0,0,0,0,1,0
+Emma Watson,0,0,0,0,1,1,1
+Emma Watson,0,0,0,0,0,0,2
+Emma Watson,0,0,0,0,1,1,3
+Daniel Radcliffe,0,1,0,1,0,1,0
+Daniel Radcliffe,0,0,0,0,1,0,1
+Daniel Radcliffe,0,0,0,0,0,0,2
+Daniel Radcliffe,0,1,0,0,0,1,3
+Julia Roberts,0,0,0,0,0,0,0
+Julia Roberts,0,,0,0,0,1,1
+Julia Roberts,0,0,0,0,0,0,2
+Julia Roberts,0,0,0,0,0,1,3
+Anne Hathaway,0,0,1,0,0,1,0
+Anne Hathaway,0,0,0,0,0,0,1
+Anne Hathaway,0,0,0,0,1,0,2
+Anne Hathaway,0,0,0,0,0,0,3
+Jennifer Lawrence,0,0,1,0,0,0,0
+Jennifer Lawrence,0,0,0,0,1,1,1
+Jennifer Lawrence,0,0,0,0,1,0,2
+Jennifer Lawrence,0,0,1,0,1,1,3
