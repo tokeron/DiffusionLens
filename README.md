@@ -18,6 +18,7 @@ pip install -r requirement.txt
 
 ## Run Diffusion Lens:
 
+Code will be uploaded to this repository.
 Run Diffusion Lens on a list of prompts from a file. 
 step_layer: int: generate images from intermediate representaions every _step_layer_ layers
 img_num: int: number of seeds to generate for each prompt and intermediate representaion
@@ -26,3 +27,6 @@ model_key: str: name of the model to apply Diffusion Lens on. Can be either "v1"
 ```
 python -u run_experiment.py --model_key v1 --img_num 4 --generate  --step_layer 4 --folder_name <output_dir> --input_filename <prompt_file>
 ```
+
+## Images Generated with the Diffusion Lens
+Images generated using the Diffusion Lens for our experiments will be uploaded soon
