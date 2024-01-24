@@ -23,7 +23,12 @@ pip install -r requirement.txt
 2. change the name of the library to diffusers_local
 3. replace the file 'pipeline_stable_diffusion' in diffusers_local/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py with the file in this repository
 4. If you would like to use IF (Deep Floyd) model: replace 'pipeline_if' in diffusers_local/src/diffusers/pipelines/deepfloyd_if/pipeline_if.py' with the file in this repository
-5.
+5. run the following command: 
+python -u run_experiment.py --model_key v1 --img_num 4 --generate  --step_layer 4 --folder_name <output_dir> --input_filename <prompt_file>
+
+change v1 to sd2.1 if you would like to use Stable Diffusion 2.1 model
+step_layer is the number of layers to skip between each generated image (default is 4)
+input_filename is the name of the file with the prompts (default is prompts.txt)
 
 Run Diffusion Lens on a list of prompts from a file.
 step*layer: int: generate images from intermediate representaions every \_step_layer* layers
