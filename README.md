@@ -13,8 +13,6 @@ Text-to-image diffusion models (T2I) use a latent representation of a text promp
 ```
 conda create --name diffusionlens --file requirements_2024.txt
 conda activate diffusionlens
-cd DiffusionLens
-pip install -r requirement.txt
 ```
 
 ## How to run Diffusion Lens
