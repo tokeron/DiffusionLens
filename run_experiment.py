@@ -9,9 +9,9 @@ import open_clip
 import argparse
 import tqdm
 from PIL import Image
-import spacy
+# import spacy
 from transformers import Blip2Processor, Blip2ForConditionalGeneration, AutoConfig
-import seaborn as sns
+# import seaborn as sns
 
 class Noun:
     def __init__(self, name):
@@ -1544,9 +1544,9 @@ class CompositionalExperiment:
             df_sentence = df_results_full[df_results_full['sentence'] == sentence]
             df_sentence = df_sentence.sort_values(by=['layer', 'index'])
             df_sentence = df_sentence.reset_index(drop=True)
-            sns.set_theme()  # apply default seaborn theme
-            sns.color_palette('colorblind')
-            sns.lineplot(data=df_sentence, x='index', y='score', color='blue', marker='o')  # use seaborn lineplot
+            # sns.set_theme()  # apply default seaborn theme
+            # sns.color_palette('colorblind')
+            # sns.lineplot(data=df_sentence, x='index', y='score', color='blue', marker='o')  # use seaborn lineplot
             plt.title(sentence)
             plt.xlabel('index')
             plt.ylabel('score')
@@ -1798,7 +1798,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     print(args)
 
-    sns.color_palette('colorblind')
+    # sns.color_palette('colorblind')
     # fix_names()
     # print("Fixed names")
 
