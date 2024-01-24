@@ -19,25 +19,19 @@ pip install -r requirement.txt
 
 ## How to run Diffusion Lens
 
-1. Donwload diffusers repository from: https://github.com/huggingface/diffusers to this folder
+1. Donwload diffusers v0.20.2 from: https://github.com/huggingface/diffusers to this folder (You can download a zip file from the repository - make sure to choose the v0.20.2 tag)
 2. change the name of the library to diffusers_local
 3. replace the file 'pipeline_stable_diffusion' in diffusers_local/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py with the file in this repository
 4. If you would like to use IF (Deep Floyd) model: replace 'pipeline_if' in diffusers_local/src/diffusers/pipelines/deepfloyd_if/pipeline_if.py' with the file in this repository
-5. run the following command: 
+5. Run Diffusion Lens on a list of prompts from a file:
+```
 python -u run_experiment.py --model_key v1 --img_num 4 --generate  --step_layer 4 --folder_name <output_dir> --input_filename <prompt_file>
-
-change v1 to sd2.1 if you would like to use Stable Diffusion 2.1 model
-step_layer is the number of layers to skip between each generated image (default is 4)
-input_filename is the name of the file with the prompts (default is prompts.txt)
-
-Run Diffusion Lens on a list of prompts from a file.
-step*layer: int: generate images from intermediate representaions every \_step_layer* layers
+```
+step_layer: the number of layers to skip between each generated image (default is 4)
+input_filename: the name of the file with the prompts (default is prompts.txt)
 img_num: int: number of seeds to generate for each prompt and intermediate representaion
 model_key: str: name of the model to apply Diffusion Lens on. Can be either "v1" for Deep Floyd or "sd2.1" for Stable Diffusion 2.1.
 
-```
-python -u run_experiment.py --model_key v1 --img_num 4 --generate  --step_layer 4 --folder_name <output_dir> --input_filename <prompt_file>
-```
 
 ## Images Generated with the Diffusion Lens
 
