@@ -1,0 +1,13 @@
+accelerate
+contextlib2
+cython
+diffusers
+gradio
+lightning
+linkify-it-py
+omegaconf
+open-clip-torch
+optimum
+python-box
+segment-anything
+tenacity

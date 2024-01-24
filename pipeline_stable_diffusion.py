@@ -38,7 +38,6 @@ from . import StableDiffusionPipelineOutput
 from .safety_checker import StableDiffusionSafetyChecker
 import os
 import matplotlib.pyplot as plt
-from baukit import TraceDict
 
 def make_grid(images, nrow=2):
     plt.figure(figsize=(20, 20))
@@ -360,163 +359,6 @@ class StableDiffusionPipeline(DiffusionPipeline, TextualInversionLoaderMixin, Lo
                 output_hidden_states=True,
                 return_dict=True,
             )
-            explain_gpt = False
-            explain_pythia = True
-            use_transformation = False
-            # from pythia_adapt.layers_map import load_encoders
-            if explain_other_model:
-                # load gpt model for the lm head
-                if explain_gpt:
-                    from transformers import GPT2Tokenizer, GPT2Model
-                    tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
-                    gpt = GPT2Model.from_pretrained('gpt2', torch_dtype=torch.bfloat16)
-                    gpt = gpt.to(device)
-                    output = gpt(text_input_ids.to(device), attention_mask=attention_mask,
-                                 output_hidden_states=True, return_dict=True)
-                    decoded_output = tokenizer.decode(text_input_ids[0])
-                    lm_head = gpt.lm_head
-                    embedding_matrix = gpt.transformer.wte.weight.data
-                    lm_head = lm_head.half().to(device)
-                    embedding_matrix = embedding_matrix.half().to(device)
-
-
-                if explain_pythia:
-                    print("Using pythia model for explanation...")
-                    from transformers import AutoTokenizer, AutoModelForCausalLM
-
-                    import sys
-                    # caution: path[0] is reserved for script path (or '' in REPL)
-                    sys.path.insert(1, '/home/tok/IF/diffusers_local/src/diffusers/pipelines/stable_diffusion/pythia_adapt')
-                    # import load_encoders from layers_map.py in pythia_adapt
-                    from layers_map import load_encoders
-                    # from pythia_adapt.layers_map import load_encoders
-                    pythia_tokenizer = AutoTokenizer.from_pretrained("EleutherAI/pythia-410m")
-                    pythia_tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-                    pythia_model = AutoModelForCausalLM.from_pretrained("EleutherAI/pythia-410m",
-                                                                       torch_dtype=torch.float16).to(device)
-
-                    empty_prompt = 'dog' + self.tokenizer.pad_token * (77 - 1) # self.tokenizer.pad_token * 77 #
-                    empty_text_inputs = self.tokenizer(
-                        empty_prompt,
-                        padding="max_length",
-                        max_length=self.tokenizer.model_max_length,
-                        truncation=True,
-                        return_tensors="pt",
-                    )
-
-                    empty_text_attention_mask = empty_text_inputs.attention_mask.to(device)
-                    empty_text_input_ids = empty_text_inputs.input_ids
-
-                    output = self.text_encoder(
-                        empty_text_input_ids.to(device),
-                        attention_mask=empty_text_attention_mask,
-                        output_hidden_states=True,
-                        return_dict=True,
-                    )
-
-                    if use_transformation:
-                        text_input_ids = pythia_tokenizer(prompt,
-                                                          # padding="max_length",
-                                         # max_length=77,
-                                         truncation=True, return_tensors="pt").input_ids
-
-                        pythia_output = pythia_model(text_input_ids.to(device),
-                                                  output_hidden_states=True,
-                                              return_dict=True)
-                    else:
-                        # # todo remove: just a check...
-                        text_input_ids = self.tokenizer(
-                            prompt,
-                            truncation=True,
-                            return_tensors="pt",
-                        )
-
-                        attention_mask = text_input_ids.attention_mask.to(device)
-                        text_input_ids = text_input_ids.input_ids
-
-                        pythia_output = self.text_encoder(
-                            text_input_ids.to(device),
-                            output_hidden_states=True,
-                            attention_mask=attention_mask,
-                            return_dict=True,
-                        )
-
-                    #.hidden_states[-1][:, -1]
-                    num_layers = len(pythia_output.hidden_states) - 1 # TODO remove -1
-                    hidden_size = len(pythia_output.hidden_states[0][0][0])
-                    print(f'num_layers: {num_layers}, hidden_size: {hidden_size}')
-                    encoders = load_encoders(num_layers, hidden_size)
-                    # translate each layer in the output via the corresponding encoder
-                    for layer_index, (encoder_name, encoder) in enumerate(encoders.items()):
-                        encoder = encoder.to(device)
-                        print(f'output.hidden_states[layer_index] shape: {pythia_output.hidden_states[layer_index].shape}')
-                        pythia_hidden_states = pythia_output.hidden_states[layer_index][0]
-                        print(f'hidden_states shape: {pythia_hidden_states.shape}')
-                        for token_index, token_representation in enumerate(pythia_hidden_states):
-                            print("token_index:", token_index)
-                            # if it's not the last token in the sequence - skip it
-                            # if token_index < pythia_hidden_states.shape[0] - 1:
-                            #     continue
-                            # if token_index > pythia_hidden_states.shape[0] - 1:
-                            #     break
-                            # continue
-                            print(f'token_representation shape: {token_representation.shape}')
-                            print(f'Changing token: {token_index}')
-                            token_representation = token_representation.float()
-                            if use_transformation:
-                                transformed_hs = encoder.get_features(token_representation)
-                            else:
-                                transformed_hs = token_representation
-                            print(f'transformed_hs shape: {transformed_hs.shape}')
-                            output.hidden_states[layer_index][0][token_index] = transformed_hs
-
-
-                # from transformers import T5Tokenizer, T5ForConditionalGeneration, AutoTokenizer
-                # model_name = 'google/t5-v1_1-xxl'
-                # t5_model = T5ForConditionalGeneration.from_pretrained(model_name, torch_dtype=torch.bfloat16)
-                # t5_model = t5_model.to(device)
-                # lm_head = t5_model.lm_head
-                # lm_head = lm_head.half().to(device)
-                # embedding_matrix = t5_model.encoder.embed_tokens.weight.data
-                # embedding_matrix = embedding_matrix.half().to(device)
-
-            # prompt_embeds_prev = self.text_encoder(
-            #     text_input_ids.to(device),
-            #     attention_mask=attention_mask,
-            # )
-
-
-            if skip_layers is not None and skip_layers[0] is not None:
-                embeds = output.hidden_states[skip_layers[0] - 1]
-                def patch_rep(x, layer):
-                    # x[0].shape = torch.Size([4, 77, 4096])
-                    # x[1].shape = torch.Size([4, 64, 77, 77])
-                    # print("embeds shape:", embeds.shape)
-                    print("In patch_rep")
-                    print(f'layer: {layer}')
-
-                    # for index in range(77):
-                    #     x[0][0, index] = embeds[0, index].clone()
-                    # do it in one line
-                    x[0][0] = embeds[0].clone()
-                    return x
-
-                embed_layername = f'text_model.encoder.layers.{skip_layers[0]}'
-                print(f'embed_layername: {embed_layername}')
-                print("=" * 60)
-                with torch.no_grad(), TraceDict(
-                        self.text_encoder,
-                        [embed_layername],
-                        edit_output=patch_rep,
-                ) as td:
-                    outputs_exp = self.text_encoder(
-                        input_ids=text_input_ids.to(self.device),
-                        attention_mask=text_inputs.attention_mask.to(self.device),
-                        output_hidden_states=True,
-                        return_dict=True,
-                    )
-                all_embeds_with_skip = outputs_exp['hidden_states'] # TODO [skip_layers[0] - 1:]
-                last_hidden_state_with_skip = outputs_exp['last_hidden_state'].detach()
 
             final_layer_norm = self.text_encoder.text_model.final_layer_norm
             hidden_states = output.hidden_states
@@ -532,37 +374,6 @@ class StableDiffusionPipeline(DiffusionPipeline, TextualInversionLoaderMixin, Lo
 
         analysis_file = open(analysis_file_name, 'w')
 
-        def calculate_stats(title, vec, file):
-            # print into the analysis file
-            file.write(title)
-            file.write(f'full representation: {vec}\n\n')
-            # norm
-            prompt_embeds_norm = torch.norm(vec, dim=-1)
-            file.write(f'norm: {prompt_embeds_norm}\n\n')
-            # mean
-            prompt_embeds_mean = torch.mean(vec, dim=-1)
-            file.write(f'mean: {prompt_embeds_mean}\n\n')
-            file.write(f'mean: {torch.mean(vec)}, std: {torch.std(vec)}, max: {torch.max(vec)}, min: {torch.min(vec)}\n\n')
-
-        if per_token:
-            pad_prompt = self.tokenizer.pad_token * 77
-            pad_text_inputs = self.tokenizer(
-                pad_prompt,
-                padding="max_length",
-                max_length=self.tokenizer.model_max_length,
-                truncation=True,
-                return_tensors="pt",
-            )
-
-            pad_text_attention_mask = pad_text_inputs.attention_mask.to(device)
-            pad_text_input_ids = pad_text_inputs.input_ids
-
-            pad_output = self.text_encoder(
-                pad_text_input_ids.to(device),
-                attention_mask=pad_text_attention_mask,
-                output_hidden_states=True,
-                return_dict=True,
-            )
 
         token_index_counter = 0
         for token_index in range(len(text_input_ids[0])):
@@ -570,20 +381,7 @@ class StableDiffusionPipeline(DiffusionPipeline, TextualInversionLoaderMixin, Lo
                 break
 
             for layer_index, prompt_embeds in enumerate(hidden_states[start_layer:end_layer:step_layer]):
-                # if layer_index == 0:
-                #     continue
-                # prompt_embeds = prompt_embeds - hidden_states[layer_index - 1]
 
-                if per_token:
-                    # replace all but the current token with pad tokens from pad_output
-                    pad_output.hidden_states[layer_index][0][:token_index] = (
-                        (pad_output.hidden_states[layer_index][0][:token_index]).clone()
-                    )
-                    pad_output.hidden_states[layer_index][0][token_index + 1:] = (
-                        (pad_output.hidden_states[layer_index][0][token_index + 1:]).clone()
-                    )
-
-                # TODO get back if needed
                 negative_prompt_embeds = None
                 if not (start_layer + layer_index * step_layer == len(hidden_states) - 1):
                     print(f"layer: {start_layer + layer_index * step_layer} - using final_layer_norm")
