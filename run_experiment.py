@@ -9,7 +9,7 @@ import open_clip
 import argparse
 import tqdm
 from PIL import Image
-# import spacy
+import spacy
 from transformers import Blip2Processor, Blip2ForConditionalGeneration, AutoConfig
 # import seaborn as sns
 
@@ -446,8 +446,8 @@ class CompositionalExperiment:
                         'prompt': params.prompt,
                         'order': 'None'
                     }))
-                    pos = self.get_pos(params.prompt)
-                    current_item.set_pos(pos)
+                    # pos = self.get_pos(params.prompt)
+                    # current_item.set_pos(pos)
                     compositional_items.append(current_item)
             else:
                 path_to_input = os.path.join(params.input_filename)
@@ -466,8 +466,8 @@ class CompositionalExperiment:
                         'prompt': prompt,
                         'order': 'None'
                     }))
-                    pos = self.get_pos(prompt)
-                    current_item.set_pos(pos)
+                    # pos = self.get_pos(prompt)
+                    # current_item.set_pos(pos)
                     compositional_items.append(current_item)
         elif set_type == 'animal_acts':
             for animal in params.animals:
@@ -740,36 +740,36 @@ class CompositionalExperiment:
 
         return df_clip_scores
 
-    def get_pos(self, full_sentence):
-        noun_dict = {}
-        verb_dict = {}
-        spacy.load('en_core_web_sm')
-        nlp = spacy.load('en_core_web_sm')
-        doc = nlp(full_sentence)
-        root = None
-        for token in doc:
-            # print(f'text: {token.text}, pos: {token.pos_}, dep: {token.dep_}, '
-            #       f'children: {token.children}, children text: {[child.text for child in token.children]}')
-            if token.pos_ == 'NOUN':
-                new_noun = Noun(token.text)
-                for child in token.children:
-                    if child.pos_ == 'ADJ':
-                        new_noun.add_adjective(child.text)
-                noun_dict[token.text] = new_noun
-            if token.pos_ == 'VERB':
-                new_verb = Verb(token.text)
-                for child in token.children:
-                    if child.pos_ == 'NOUN':
-                        new_verb.add_subject(child.text)
-                verb_dict[token.text] = new_verb
-            if token.dep_ == 'ROOT':
-                root = token.text
-
-        return {
-            'nouns': noun_dict,
-            'verbs': verb_dict,
-            'root': root,
-        }
+    # def get_pos(self, full_sentence):
+    #     noun_dict = {}
+    #     verb_dict = {}
+    #     # spacy.load('en_core_web_sm')
+    #     # nlp = spacy.load('en_core_web_sm')
+    #     # doc = nlp(full_sentence)
+    #     root = None
+    #     for token in doc:
+    #         # print(f'text: {token.text}, pos: {token.pos_}, dep: {token.dep_}, '
+    #         #       f'children: {token.children}, children text: {[child.text for child in token.children]}')
+    #         if token.pos_ == 'NOUN':
+    #             new_noun = Noun(token.text)
+    #             for child in token.children:
+    #                 if child.pos_ == 'ADJ':
+    #                     new_noun.add_adjective(child.text)
+    #             noun_dict[token.text] = new_noun
+    #         if token.pos_ == 'VERB':
+    #             new_verb = Verb(token.text)
+    #             for child in token.children:
+    #                 if child.pos_ == 'NOUN':
+    #                     new_verb.add_subject(child.text)
+    #             verb_dict[token.text] = new_verb
+    #         if token.dep_ == 'ROOT':
+    #             root = token.text
+    #
+    #     return {
+    #         'nouns': noun_dict,
+    #         'verbs': verb_dict,
+    #         'root': root,
+    #     }
     def get_sentences_dict_from_pos(self, pos):
         nouns = pos['nouns']
         verbs = pos['verbs']

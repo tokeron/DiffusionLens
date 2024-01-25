@@ -30,6 +30,19 @@ input_filename: the name of the file with the prompts (default is prompts.txt)
 img_num: int: number of seeds to generate for each prompt and intermediate representaion
 model_key: str: name of the model to apply Diffusion Lens on. Can be either "v1" for Deep Floyd or "sd2.1" for Stable Diffusion 2.1.
 
+Note: The input file with the prompts should be in the inputs folder.
+
+## Common Issues
+If you get the following error:
+```
+AssertionError: Torch not compiled with CUDA enabled
+```
+Make sure you have installed pytorch with CUDA support. You can check it by running:
+```
+python -c 'import torch; print(torch.cuda.is_available())'
+```
+If you get False, you need to install pytorch with CUDA support. You can find the installation instructions here: https://pytorch.org/
+
 
 ## Images Generated with the Diffusion Lens
 

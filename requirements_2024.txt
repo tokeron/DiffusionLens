@@ -11,3 +11,4 @@ optimum
 python-box
 segment-anything
 tenacity
+spacy
