@@ -1,5 +1,10 @@
 # DiffusionLens: Interpreting Text Encoders in Text-to-Image Pipelines
 
+# Update – 30.01.2025
+
+The notebook implementing Diffusion Lens with FLUX has been updated:  
+[Diffusion Lens Notebook](https://github.com/tokeron/DiffusionLens/blob/main/Diffusion_Lens.ipynb).
+
 <img style="witdh: 100%;" src="images/examples.png">
 
 ## Abstract
